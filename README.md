@@ -1,10 +1,11 @@
 # G-Henisys
-Merry Christmas - 2018-2020 G'Henisys source
+Merry Christmas!
 
-- Disregard path showing BO1, the project started on BO1.
+Today I decided to drop the source to G'Henisys 2018-2020
+
+- Disregard path showing BO1, the project actually started on BO1.
 - Source will not build
 - Some features have been redacted
 
-
 Enjoy.
-- kiwi.
+- kiwi
