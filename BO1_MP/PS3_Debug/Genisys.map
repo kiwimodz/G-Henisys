@@ -1,0 +1,2463 @@
+Address  Size     Align Out     In      File    Symbol
+=================================================================
+UNDEFINED
+                                                __sys_process_crash_dump_param 
+00000000 00000000     1 .interp
+00000000 00000000     1 .hash
+00000000 00000000     1 .dynsym
+00000000 00000000     1 .dynstr
+00000000 00000000     1 .gnu.version
+00000000 00000000     1 .gnu.version_d
+00000000 00000000     1 .gnu.version_r
+00000000 00000000     1 .rel.init
+00000000 00000000     1 .rela.init
+00000000 00000000     1 .rel.text
+00000000 00000000     1 .rel.text
+00000000 00000000     1 .rela.text
+00000000 00000000     1 .rel.fini
+00000000 00000000     1 .rela.fini
+00000000 00000000     1 .rel.rodata
+00000000 00000000     1 .rela.rodata
+00000000 00000000     1 .rel.sceStub.text
+00000000 00000000     1 .rel.lib.ent.top
+00000000 00000000     1 .rel.lib.ent
+00000000 00000000     1 .rel.lib.ent.btm
+00000000 00000000     1 .rel.lib.stub.top
+00000000 00000000     1 .rel.lib.stub
+00000000 00000000     1 .rel.lib.stub.btm
+00000000 00000000     1 .rel.rodata.sceModuleInfo
+00000000 00000000     1 .rel.rodata.sceResident
+00000000 00000000     1 .rel.rodata.sceVStub
+00000000 00000000     1 .rel.data
+00000000 00000000     1 .rela.data
+00000000 00000000     1 .rel.tdata
+00000000 00000000     1 .rela.tdata
+00000000 00000000     1 .rel.tbss
+00000000 00000000     1 .rela.tbss
+00000000 00000000     1 .rel.ctors
+00000000 00000000     1 .rela.ctors
+00000000 00000000     1 .rel.dtors
+00000000 00000000     1 .rela.dtors
+00000000 00000000     1 .rel.got
+00000000 00000000     1 .rela.got
+00000000 00000000     1 .rela.toc
+00000000 00000000     1 .rel.sdata
+00000000 00000000     1 .rela.sdata
+00000000 00000000     1 .rel.sbss
+00000000 00000000     1 .rela.sbss
+00000000 00000000     1 .rel.sdata2
+00000000 00000000     1 .rela.sdata2
+00000000 00000000     1 .rel.sbss2
+00000000 00000000     1 .rela.sbss2
+00000000 00000000     1 .rel.bss
+00000000 00000000     1 .rela.bss
+00000000 00000000     1 .rel.plt
+00000000 00000000     1 .rela.plt
+00000000 00000000     1 .rela.tocbss
+00000000 00000000     1 .init
+00000000 00027d44     8 .text
+00000000 00000000     4         .text
+00000000 00000000     4                 C:\Users\kiwi\Desktop\Hen\BO1_MP\BO1_MP\PS3_Debug\account_mp.o (TOC#1,116)
+00000000 00003e18     8                 C:\Users\kiwi\Desktop\Hen\BO1_MP\BO1_MP\PS3_Debug\aimassist_mp.o (TOC#1,116)
+00000000 00000018     0                         _Z6noshitv$rodata
+000008a4 00000004     0                         _Z13Get3dDistance7Vector3S_$rodata
+00000a00 0000001c     0                         _Z10anWallBangP9centity_s7Vector3$rodata
+00000c50 00000024     0                         _Z12VectorAnglesR7Vector3S0_$rodata
+00000dbc 00000020     0                         _Z20Bullet_FirePenetrateR16BulletFireParamsR18BulletTraceResults7Vector3$rodata
+00001ba4 00000004     0                         _Z11ShieldTraceP9centity_ss$rodata
+0000206c 00000008     0                         _Z19AimTarget_IsVisibleif$rodata
+00002758 00000004     0                         _Z18GetNearestPlayerzmv$rodata
+00002958 0000000c     0                         _Z19AimingAtEnemyAimboti$rodata
+00002af0 00000004     0                         _Z18GetNearestPlayermpv$rodata
+000031b8 00000014     0                         _Z11FixMovementP9usercmd_sffff$rodata
+00003384 00000014     0                         _Z8NoSpreadP9usercmd_s$rodata
+00003740 00000018     0                         _Z5pspinP9usercmd_sS0_S0_$rodata
+00003964 0000000c     0                         _Z7psilentP9usercmd_sS0_$rodata
+00003dcc 0000004c     0                         .__sti___16_aimassist_mp_cpp_shitcunt
+00000018 0000022c     0                         noshit()
+00000244 0000001c     0                         enable_aimbot(bool*)
+00000260 0000001c     0                         enable_cancelreload(bool*)
+0000027c 00000010     0                         aim_type(int)
+0000028c 00000010     0                         tag_type(int)
+0000029c 00000010     0                         key_type(int)
+000002ac 0000001c     0                         enable_visible(bool*)
+000002c8 0000001c     0                         enable_autowall(bool*)
+000002e4 0000001c     0                         enable_aim(bool*)
+00000300 0000001c     0                         enable_antiaim(bool*)
+0000031c 0000001c     0                         enable_spinbot(bool*)
+00000338 0000001c     0                         enable_reversebot(bool*)
+00000354 0000001c     0                         enable_lockup(bool*)
+00000370 0000001c     0                         enable_nospread(bool*)
+0000038c 00000038     0                         enable_noflinch(bool*)
+000003c4 00000038     0                         enable_norec(bool*)
+000003fc 00000038     0                         enable_nosway(bool*)
+00000434 00000038     0                         enable_nobob(bool*)
+0000046c 0000001c     0                         enable_aimatfeet(bool*)
+00000488 0000001c     0                         enable_autobone(bool*)
+000004a4 0000001c     0                         enable_autoshoot(bool*)
+000004c0 00000010     0                         slide_prediction(float)
+000004d0 00000010     0                         spin_scale(float)
+000004e0 00000010     0                         pcorrectiion_scale(float)
+000004f0 00000010     0                         pitch_scale(float)
+00000500 00000010     0                         roll_scale(float)
+00000510 00000010     0                         lag_scale(float)
+00000520 0000001c     0                         enable_ntiaim(bool*)
+0000053c 00000150     0                         enable_hvh(bool*)
+0000068c 0000003c     0                         BG_GetWeaponVariantDef(unsigned int)
+000006c8 0000003c     0                         BG_GetWeaponDef(int)
+00000704 00000040     0                         BulletTrace(int, BulletFireParams*, WeaponDef*, centity_s*, BulletTraceResults*, int, bool)
+00000744 000000dc     0                         anglevectors(Vector3, Vector3*, Vector3*, Vector3*)
+00000820 0000003c     0                         BG_AdvanceTrace(BulletFireParams*, BulletTraceResults*, float)
+0000085c 00000048     0                         BG_GetSurfacePenetrationDepth(PenetrateType, int)
+000008a8 000000c4     0                         Get3dDistance(Vector3, Vector3)
+0000096c 00000004     0                         _VectorMA(Vector3, float, Vector3, Vector3)
+00000970 00000034     0                         Vec3DistanceSq(float const*, float const*)
+000009a4 00000020     0                         Abs(float const*)
+000009c4 0000003c     0                         Trace_GetEntityHitId(trace1_t*)
+00000a20 000001d4     0                         anWallBang(centity_s*, Vector3)
+00000bf4 0000005c     0                         Vec3Distance(Vector3*, Vector3*)
+00000c78 00000144     0                         VectorAngles(Vector3&, Vector3&)
+00000de0 000006b0     0                         Bullet_FirePenetrate(BulletFireParams&, BulletTraceResults&, Vector3)
+00001490 00000028     0                         AimTarget_TargetHasWeapon(centity_s*, int)
+000014b8 000000ac     0                         AimTarget_TargetHasTag(centity_s*, char const*)
+00001564 00000058     0                         GetDistance(Vector3, Vector3)
+000015bc 00000240     0                         autobone(int)
+000017fc 000000a8     0                         HandleTag(int)
+000018a4 00000184     0                         Aim_Direction(int, float)
+00001a28 00000174     0                         Aim_DirectionMe(int, float)
+00001b9c 00000008     0                         BG_GetWeaponHitLocationMultiplier(int, hitLocation_t)
+00001ba8 00000270     0                         ShieldTrace(centity_s*, short)
+00001e18 0000015c     0                         riotshieldCheck(int)
+00001f74 000000f8     0                         AimTarget_IsWallableWithPrediction(int, float)
+00002078 000002a4     0                         AimTarget_IsVisible(int, float)
+0000231c 00000290     0                         Vischeckmp(int)
+000025ac 0000007c     0                         Vischeckzm(int)
+00002628 00000130     0                         ShouldSimulateCheck()
+00002760 000001f8     0                         GetNearestPlayerzm()
+00002968 00000188     0                         AimingAtEnemyAimbot(int)
+00002af8 00000284     0                         GetNearestPlayermp()
+00002d7c 00000024     0                         isButtonDown(int)
+00002da0 00000110     0                         SnapAimbot()
+00002eb0 000002ac     0                         AimTarget_GetTarget()
+0000315c 00000034     0                         aimbot()
+00003190 00000028     0                         ClampChar_r(int)
+000031d0 000001b4     0                         FixMovement(usercmd_s*, float, float, float, float)
+00003398 000003a4     0                         NoSpread(usercmd_s*)
+00003758 0000020c     0                         pspin(usercmd_s*, usercmd_s*, usercmd_s*)
+00003970 0000045c     0                         psilent(usercmd_s*, usercmd_s*)
+00003e18 00000648     8                 C:\Users\kiwi\Desktop\Hen\BO1_MP\BO1_MP\PS3_Debug\cheats_mp.o (TOC#1,116)
+00004014 00000004     0                         _Z13slide_zoommapf$rodata
+000040ac 00000008     0                         _Z10slide_xmapf$rodata
+000040ec 0000000c     0                         _Z10slide_ymapf$rodata
+00004424 0000003c     0                         .__sti___13_cheats_mp_cpp_7d81a1f6
+00003e18 00000048     0                         Render_Wallhack(bool*)
+00003e60 000000c0     0                         Render_Chams(bool*)
+00003f20 000000d4     0                         rssm(bool*)
+00003ff4 0000000c     0                         slide_fovx(float)
+00004000 00000014     0                         slide_xflags(float)
+00004018 00000094     0                         slide_zoommap(float)
+000040b8 00000034     0                         slide_xmap(float)
+000040f8 00000038     0                         slide_ymap(float)
+00004130 00000050     0                         CG_SetThirdPerson(bool*)
+00004180 00000030     0                         toggleP(bool*)
+000041b0 00000030     0                         togglePi(bool*)
+000041e0 0000001c     0                         toggleconsole(bool*)
+000041fc 00000020     0                         toggleantifreeze(bool*)
+0000421c 00000020     0                         toggleucs(bool*)
+0000423c 00000014     0                         Prrank(int)
+00004250 000000c8     0                         rank(int)
+00004318 00000020     0                         unlimitedrank(int)
+00004338 0000000c     0                         FXint(int)
+00004344 0000000c     0                         Dvisint(float)
+00004350 00000010     0                         StyleInt(int)
+00004360 00000010     0                         Sint(int)
+00004370 00000010     0                         wint(int)
+00004380 000000a4     0                         unlock_all()
+00004460 000006e8     8                 C:\Users\kiwi\Desktop\Hen\BO1_MP\BO1_MP\PS3_Debug\console.o (TOC#1,116)
+00004588 00000028     0                         _ZN7Console4drawEv$rodata
+00004afc 0000004c     0                         .__sti___11_console_cpp_console
+00004460 00000128     0                         Console::arrange(int)
+000045b0 000002d4     0                         Console::draw()
+00004884 0000011c     0                         Console::write(char const*, color&&, color&&, color&&, color&&)
+000049a0 00000030     0                         Console::getItem(int)
+000049d0 00000008     0                         Console::contains(char const*)
+000049d8 00000080     0                         Console::isfilled()
+00004a58 000000a4     0                         Console::clear()
+00004b48 00007818     8                 C:\Users\kiwi\Desktop\Hen\BO1_MP\BO1_MP\PS3_Debug\Functions.o (TOC#1,116)
+00005060 00000004     0                         _Z39AimTarget_IsTargetVisibleWithPredictionif$rodata
+000054dc 00000004     0                         _Z14AnglesToFoward7Vector3S_f$rodata
+000055fc 0000000c     0                         _Z15EnemyAimingAtMei$rodata
+00005be8 00000010     0                         _Z11Smokehandlev$rodata
+000064cc 00000004     0                         _Z10DrawShaderfffff5colorPKci9alignment$rodata
+00006638 00000004     0                         _Z12DrawShaderUIfffff5colorPKci9alignment$rodata
+00007170 0000001c     0                         _Z8DrawTextPKcffffS0_5color9alignmentb$rodata
+00007518 0000001c     0                         _Z19DrawTextWithEffectsPKcfff5color9alignment$rodata
+00007810 0000001c     0                         _Z21DrawTextWithEffectsUIPKcfff5color9alignment$rodata
+00007ce4 00000004     0                         _Z11DrawShader1fffff5colorPKci9alignment$rodata
+00007e28 00000004     0                         _Z11DrawShaderPfffff5colorPv9alignment$rodata
+00007edc 0000000c     0                         _Z13DrawBorderBoxffff5colorS_9drawTypes$rodata
+0000825c 0000000c     0                         _Z10DrawShaderffff5colorS_i$rodata
+00008788 00000018     0                         _Z22DrawTextWithBackgroundPKcfff5colorS1_9alignment$rodata
+00008e40 00000014     0                         _Z13DrawBorderBoxffff5colorS_S_$rodata
+00009174 0000000c     0                         _Z13DrawHaxShaderfffff5colorPKci9alignment$rodata
+000092e0 00000024     0                         _Z11DrawOutlineffff5colori9alignment$rodata
+00009c68 00000008     0                         _Z19DrawHaxStaticShaderfffff5colorPKci9alignment$rodata
+00009da8 00000014     0                         _Z17DrawStaticOutlineffff5colorS_i$rodata
+0000a3d8 00000008     0                         _Z20DrawHaxStaticShader1fffff5colorPKci9alignment$rodata
+0000a50c 00000014     0                         _Z18DrawStaticOutline1ffff5colori$rodata
+0000aaf0 0000001c     0                         _Z25DrawTextWithBackground_UIPKcfff5colorS1_S1_9alignment$rodata
+0000c2c8 00000098     0                         .__sti___13_Functions_cpp_5383d3c9
+0000c2b8 00000010     0                         __sti___13_Functions_cpp_5383d3c9$rodata
+00004b48 00000028     0                         zombiecheck()
+00004b70 00000044     0                         CG_GameMessage(char*)
+00004bb4 00000044     0                         Cbuf_AddText(char*)
+00004bf8 00000060     0                         WorldPosToScreenPos(Vector3, Vector2*)
+00004c58 00000040     0                         CG_LocationalTrace(trace_ts*, Vector3*, Vector3*, int, int, bool, col_context_t*)
+00004c98 0000004c     0                         PlayerCmd_EnableInvulnerability(int)
+00004ce4 0000004c     0                         PlayerCmd_disableinvulnerability(int)
+00004d30 000000c8     0                         TeleportToPower()
+00004df8 000000c8     0                         TeleportToPaP()
+00004ec0 0000004c     0                         XShowKeyboardUI(int, wchar_t const*, wchar_t const*, unsigned int, void (*)(int, wchar_t const*, unsigned int), unsigned int)
+00004f0c 0000005c     0                         Dvar_GetString(char const*)
+00004f68 00000030     0                         WideCharToMultibyte(wchar_t const*, int, char*)
+00004f98 0000009c     0                         CScr_IsAlive(centity_s*)
+00005034 00000004     0                         PosPrediction(int, Vector3, int, bool)
+00005038 00000028     0                         USleep(unsigned long long)
+00005068 00000158     0                         AimTarget_IsTargetVisibleWithPrediction(int, float)
+000051c0 0000005c     0                         Dvar_GetBool(char const*)
+0000521c 0000005c     0                         Dvar_GetFloat(char const*)
+00005278 0000003c     0                         irand_(int, int)
+000052b4 0000001c     0                         isHostMigrating()
+000052d0 000000e8     0                         cl_ingame()
+000053b8 00000044     0                         CG_IsEntityFriendlyNotEnemy(centity_s*)
+000053fc 00000068     0                         AimTarget_GetTagPos(centity_s*, short, Vector3*)
+00005464 00000018     0                         VectorLength2D(Vector3*)
+0000547c 00000060     0                         VectoAngles(Vector3, Vector3*)
+000054e0 0000011c     0                         AnglesToFoward(Vector3, Vector3, float)
+00005608 000001d8     0                         EnemyAimingAtMe(int)
+000057e0 0000003c     0                         R_RegisterFont(char const*, int)
+0000581c 000000b8     0                         R_TextWidth(char const*, char const*, float)
+000058d4 000000b4     0                         R_TextHeight(char const*, float)
+00005988 0000001c     0                         SmokeColor(bool*)
+000059a4 000001f0     0                         NightMode(bool*)
+00005b94 0000001c     0                         SkyColor(bool*)
+00005bb0 0000001c     0                         SkyRotate(bool*)
+00005bcc 0000001c     0                         fadeColor(bool*)
+00005bf8 000001b4     0                         Smokehandle()
+00005dac 00000040     0                         Material_RegisterHandle(char const*, int)
+00005dec 00000118     0                         CL_DrawTextPhysicalWithEffects(char const*, int, int, float, float, float, float, float, color, int, color, Material*, Material*, int, int, int, int)
+00005f04 00000114     0                         CL_DrawTextPhysicalWithEffectsUI(char const*, int, int, float, float, float, float, float, color, int, color, Material*, Material*, int, int, int, int)
+00006018 00000074     0                         R_AddCmdDrawText(char const*, int, int, float, float, float, float, float, float*, int)
+0000608c 00000064     0                         R_AddCmdDrawTextUI(char const*, int, int, float, float, float, float, float, float*, int)
+000060f0 000000fc     0                         CG_DrawRotatedPicUI(float, float, float, float, float, color, char const*, int)
+000061ec 00000108     0                         CG_DrawRotatedPic(float, float, float, float, float, color, char const*, int)
+000062f4 00000084     0                         CL_DrawStretchPicInternal(float, float, float, float, int, int, float, float, float, float, color, void*)
+00006378 000000f0     0                         CG_DrawRotatedPic1(float, float, float, float, float, color, char const*, int)
+00006468 00000064     0                         CG_DrawRotatedPicp(float, float, float, float, float, color, void*)
+000064d0 00000168     0                         DrawShader(float, float, float, float, float, color, char const*, int, alignment)
+00006640 00000148     0                         DrawShaderUI(float, float, float, float, float, color, char const*, int, alignment)
+00006788 0000003c     0                         LiveStats_SetClanTagText(int, char*)
+000067c4 00000044     0                         ChangeClanTagPreGame(char*)
+00006808 00000098     0                         i32_Name(bool*)
+000068a0 0000001c     0                         EFlash_Name(bool*)
+000068bc 00000020     0                         EAdd_Name(bool*)
+000068dc 0000001c     0                         EMp(bool*)
+000068f8 0000001c     0                         Efps(bool*)
+00006914 0000001c     0                         Eres(bool*)
+00006930 0000001c     0                         Eserverinfo(bool*)
+0000694c 0000001c     0                         Eping(bool*)
+00006968 0000001c     0                         Eents(bool*)
+00006984 0000001c     0                         Emaxc(bool*)
+000069a0 0000001c     0                         Ehost(bool*)
+000069bc 0000001c     0                         Emap(bool*)
+000069d8 0000001c     0                         Egame(bool*)
+000069f4 000000ac     0                         I_ChangeClan()
+00006aa0 000000f8     0                         I_ChangeAdd()
+00006b98 00000270     0                         Flash_name_()
+00006e08 00000368     0                         Add_name_()
+00007190 00000384     0                         DrawText(char const*, float, float, float, float, char const*, color, alignment, bool)
+00007538 000002d8     0                         DrawTextWithEffects(char const*, float, float, float, color, alignment)
+00007830 000002b4     0                         DrawTextWithEffectsUI(char const*, float, float, float, color, alignment)
+00007ae4 00000200     0                         DrawTextUI(char const*, float, float, float, float, char const*, color, alignment)
+00007ce8 0000013c     0                         DrawShader1(float, float, float, float, float, color, char const*, int, alignment)
+00007e24 00000004     0                         DrawShaderCompass(float, float, float, float, int, int, float, float, float, float, color, char const*, int, alignment)
+00007e30 000000ac     0                         DrawShaderP(float, float, float, float, float, color, void*, alignment)
+00007ee8 00000374     0                         DrawBorderBox(float, float, float, float, color, color, drawTypes)
+00008268 0000051c     0                         DrawShader(float, float, float, float, color, color, int)
+000087a0 000006a0     0                         DrawTextWithBackground(char const*, float, float, float, color, color, alignment)
+00008e58 0000031c     0                         DrawBorderBox(float, float, float, float, color, color, color)
+00009180 00000160     0                         DrawHaxShader(float, float, float, float, float, color, char const*, int, alignment)
+00009308 00000960     0                         DrawOutline(float, float, float, float, color, int, alignment)
+00009c70 00000138     0                         DrawHaxStaticShader(float, float, float, float, float, color, char const*, int, alignment)
+00009dc0 00000618     0                         DrawStaticOutline(float, float, float, float, color, color, int)
+0000a3e0 0000012c     0                         DrawHaxStaticShader1(float, float, float, float, float, color, char const*, int, alignment)
+0000a520 000005cc     0                         DrawStaticOutline1(float, float, float, float, color, int)
+0000ab10 000009b8     0                         DrawTextWithBackground_UI(char const*, float, float, float, color, color, color, alignment)
+0000b4c8 00000230     0                         ChangeIP(bool*)
+0000b6f8 000000c0     0                         StealName(int)
+0000b7b8 000001b4     0                         closedpartybypass(bool)
+0000b96c 000000a8     0                         ReadAsset(char const*, void*, unsigned int)
+0000ba14 000000a8     0                         WriteAsset(char const*, void*, unsigned int)
+0000babc 00000100     0                         isave()
+0000bbbc 00000100     0                         iload()
+0000bcbc 000000ac     0                         loadcamo(char const*)
+0000bd68 000000d0     0                         Load_camo()
+0000be38 0000006c     0                         getFileSize(char*)
+0000bea4 000000a4     0                         readFile(char*, char*, int)
+0000bf48 00000004     0                         DB_FindXAssetHeader(XAssetType, char const*, bool, int)
+0000bf4c 00000144     0                         InjectCustomGSC()
+0000c090 0000000c     0                         injector::InjectTolocation(char*)
+0000c09c 00000024     0                         injector::SpacetoInject()
+0000c0c0 00000140     0                         injector::inject(char*)
+0000c200 00000028     0                         Inject_MWA()
+0000c228 00000088     0                         cl_ingame_()
+0000c2b0 00000004     0                         CG_VisionSetStartLerp_To(int, visionSetMode_t, visionSetLerpStyle_t, char const*, int)
+0000c2b4 00000004     0                         CScr_VisionSetNaked()
+0000c360 00000000     4                 C:\Users\kiwi\Desktop\Hen\BO1_MP\BO1_MP\PS3_Debug\hook.o (TOC#1,116)
+0000c360 0000d988     8                 C:\Users\kiwi\Desktop\Hen\BO1_MP\BO1_MP\PS3_Debug\menu.o (TOC#1,116)
+0000c368 00000014     0                         _Z5flashP5color$rodata
+0000c4d8 00000014     0                         _Z6flash2P5color$rodata
+0000c650 00000020     0                         _Z11_Buttoninfov$rodata
+0000cce8 00000028     0                         _Z14movement_eventv$rodata
+0000cfe8 00000010     0                         _Z4Waiti$rodata
+0000d0b0 00000018     0                         _Z13Cancel_Reloadv$rodata
+0000d1f0 00000018     0                         _Z8SND_PlayPKcif$rodata
+0000d398 00000030     0                         _Z12Ui_interfacev$rodata
+0000e904 00000054     0                         _Z8addTitlePKci$rodata
+0000f080 0000004c     0                         _Z10addSubmenuPKci$rodata
+0000f4b0 00000048     0                         _Z15addColorSubmenuPKcii$rodata
+0000f908 00000048     0                         _Z12addColormenuPKc5color$rodata
+0000fde8 00000048     0                         _Z16addColorSubmenu1PKcii$rodata
+0001023c 00000014     0                         _Z9addOptionPKc$rodata
+000103a8 00000028     0                         _Z10addKOptionPKcPFvvE$rodata
+00010670 00000014     0                         _Z9addOptionPKcPFvvE$rodata
+000108c0 00000018     0                         _Z10addCOptionPKcPcPFvvE$rodata
+00010c28 00000030     0                         _Z13addCamoOptionPKcS0_$rodata
+00010f90 00000054     0                         _Z6addBarPKcffPFvfEPfPcb$rodata
+00011898 00000054     0                         _Z11addColorBarPKcffPFvfEPcPfb$rodata
+00012218 00000054     0                         _Z12addColorBar1PKcffPFvfEPcPfb$rodata
+00012b98 00000040     0                         _Z7addInt1PKciiiPFviEPiPcb$rodata
+000133b8 00000040     0                         _Z6addIntPKciiiPFviEPcb$rodata
+00013be8 00000018     0                         _Z6addFPSPKcf$rodata
+00013eb0 00000054     0                         _Z9addCheck1PKcPFvPbEPcS1_$rodata
+00014498 00000054     0                         _Z8addCheckPKcPFvPbEPc$rodata
+00014a60 00000054     0                         _Z9addCheck2PKcPFvPbEbPc$rodata
+00015010 00000034     0                         _Z8addArrayPKcPS0_jPFviEb$rodata
+00015770 00000028     0                         _Z15combo_render_uiv$rodata
+00015ba0 00000050     0                         _Z8addComboPKcPS0_iiPFviES1_$rodata
+00016a10 00000040     0                         _Z12addPlayerSubPKci$rodata
+00017064 0000000c     0                         _Z22SomeCamo_InfectionShitv$rodata
+00017238 00000004     0                         _Z13cheats_renderv$rodata
+000173bc 00000004     0                         _Z6MoveUpv$rodata
+000173e0 00000004     0                         _Z8MoveDownv$rodata
+00017408 00000004     0                         _Z8MoveLeftv$rodata
+00017430 00000004     0                         _Z9MoveRightv$rodata
+00017458 000000b4     0                         _Z10RenderMenuv$rodata
+000193c0 00000030     0                         _Z10HandleMenuv$rodata
+00019c74 00000074     0                         .__sti___8_menu_cpp_menu
+0000c360 00000004     0                         GetConsoleinfo()
+0000c380 00000158     0                         flash(color*)
+0000c4f0 0000015c     0                         flash2(color*)
+0000c670 00000254     0                         _Buttoninfo()
+0000c8c4 00000078     0                         stringlength(char const*)
+0000c93c 00000080     0                         local_command_complete(int, wchar_t const*, unsigned int)
+0000c9bc 00000168     0                         Change_Name_complete(int, wchar_t const*, unsigned int)
+0000cb24 00000048     0                         dokeyboard()
+0000cb6c 00000048     0                         dokeyboard1()
+0000cbb4 00000048     0                         local_command()
+0000cbfc 00000048     0                         ChangeName()
+0000cc44 0000005c     0                         EndGame()
+0000cca0 00000048     0                         Disconnect()
+0000cd10 0000029c     0                         movement_event()
+0000cfac 0000003c     0                         CG_CycleWeapon(int, int)
+0000cff8 000000b4     0                         Wait(int)
+0000d0c8 00000124     0                         Cancel_Reload()
+0000d208 000000c8     0                         SND_Play(char const*, int, float)
+0000d2d0 0000006c     0                         decrypt(char*, int)
+0000d33c 00000058     0                         get_ip_address()
+0000d3c8 0000153c     0                         Ui_interface()
+0000e958 00000724     0                         addTitle(char const*, int)
+0000f0d0 000003e0     0                         addSubmenu(char const*, int)
+0000f4f8 0000040c     0                         addColorSubmenu(char const*, int, int)
+0000f950 00000498     0                         addColormenu(char const*, color)
+0000fe30 0000040c     0                         addColorSubmenu1(char const*, int, int)
+00010250 00000154     0                         addOption(char const*)
+000103d0 000002a0     0                         addKOption(char const*, void (*)())
+00010688 00000238     0                         addOption(char const*, void (*)())
+000108d8 00000348     0                         addCOption(char const*, char*, void (*)())
+00010c20 00000004     0                         blah()
+00010c58 00000334     0                         addCamoOption(char const*, char const*)
+00010fe8 000008b0     0                         addBar(char const*, float, float, void (*)(float), float*, char*, bool)
+000118f0 00000928     0                         addColorBar(char const*, float, float, void (*)(float), char*, float*, bool)
+00012270 00000928     0                         addColorBar1(char const*, float, float, void (*)(float), char*, float*, bool)
+00012bd8 000007e0     0                         addInt1(char const*, int, int, int, void (*)(int), int*, char*, bool)
+000133f8 000007f0     0                         addInt(char const*, int, int, int, void (*)(int), char*, bool)
+00013c00 000002b0     0                         addFPS(char const*, float)
+00013f08 00000590     0                         addCheck1(char const*, void (*)(bool*), char*, bool*)
+000144f0 00000570     0                         addCheck(char const*, void (*)(bool*), char*)
+00014ab8 00000558     0                         addCheck2(char const*, void (*)(bool*), bool, char*)
+00015048 00000728     0                         addArray(char const*, char const**, unsigned int, void (*)(int), bool)
+00015798 00000408     0                         combo_render_ui()
+00015bf0 00000e1c     0                         addCombo(char const*, char const**, int, int, void (*)(int), char const**)
+00016a50 00000344     0                         addPlayerSub(char const*, int)
+00016d94 0000004c     0                         slide_chams_r(float)
+00016de0 0000004c     0                         slide_chams_g(float)
+00016e2c 0000004c     0                         slide_chams_b(float)
+00016e78 0000000c     0                         SlideRed(float)
+00016e84 0000000c     0                         SlideGreen(float)
+00016e90 0000000c     0                         SlideBlue(float)
+00016e9c 0000000c     0                         SlideRed1(float)
+00016ea8 0000000c     0                         SlideGreen1(float)
+00016eb4 0000000c     0                         SlideBlue1(float)
+00016ec0 0000000c     0                         slide_props(float)
+00016ecc 00000034     0                         slide_reflection(float)
+00016f00 00000034     0                         slide_layer3Scroll(float)
+00016f34 00000034     0                         slide_emissive_Amo(float)
+00016f68 00000034     0                         slide_Layer1Scroll(float)
+00016f9c 00000034     0                         slide_layer2Scroll(float)
+00016fd0 00000034     0                         slide_gloss_Amount(float)
+00017004 0000000c     0                         set_color(int)
+00017010 0000000c     0                         Fmj_scale(float)
+0001701c 0000000c     0                         Damage_scale(float)
+00017028 0000000c     0                         Menusize_scale(float)
+00017034 0000000c     0                         Menufade_scale(float)
+00017040 00000024     0                         enable1(bool*)
+00017070 00000180     0                         SomeCamo_InfectionShit()
+000171f0 00000048     0                         SignIn()
+00017240 000000cc     0                         cheats_render()
+0001730c 00000024     0                         enableresettheme()
+00017330 0000008c     0                         enableresetweaponized()
+000173c0 00000020     0                         MoveUp()
+000173e8 00000020     0                         MoveDown()
+00017410 00000020     0                         MoveLeft()
+00017438 00000020     0                         MoveRight()
+00017510 00001eac     0                         RenderMenu()
+000193f0 00000884     0                         HandleMenu()
+00019ce8 00003e70     8                 C:\Users\kiwi\Desktop\Hen\BO1_MP\BO1_MP\PS3_Debug\prx.o (TOC#1,116)
+0001a188 00000008     0                         _Z24CG_SetWeaponMMSConstantsiP17ShaderConstantSet$rodata
+0001a314 00000004     0                         _Z22R_MapShaderConstantSetP17ShaderConstantSetiPKc$rodata
+0001a490 00000014     0                         _Z16R_AddDObjToSceneP4DObjP7cpose_tjjP7Vector3PKfS6_iiP17ShaderConstantSetff$rodata
+0001b2a0 00000008     0                         _Z10CL_SendCmdi$rodata
+0001b938 00000004     0                         _ZN6Dialog4ShowEPc$rodata
+0001b9b8 00000004     0                         _Z4iniiv$rodata
+0001bf4c 00000004     0                         _Z26LUI_LuaCall_DrawRectangleHP11LUI_Elementffffffffii$rodata
+0001cee8 00000004     0                         _ZN6Dialog9ShowYESNOEPc$rodata
+0001cfb8 000009bc     0                         .__std___7_prx_cpp_local
+0001d974 00000044     0                         [local to prx_cpp]::Dialog::cb_dialogText1(int, void*)
+0001d9b8 00000058     0                         [local to prx_cpp]::Dialog::cb_dialogText2(int, void*)
+0001da18 00000140     0                         .__sti___7_prx_cpp_local
+0001da10 00000004     0                         __sti___7_prx_cpp_local$rodata
+00019ce8 0000006c     0                         WriteHenMem(unsigned long long, void*, unsigned int)
+00019d54 00000074     0                         Detour::Restore()
+00019dc8 000000b0     0                         Detour::~Detour()
+00019e78 0000006c     0                         ReadHenMem(unsigned long long, void*, unsigned int)
+00019ee4 00000184     0                         DetourFunction(int, int, int)
+0001a068 0000001c     0                         GetLocalUi(int)
+0001a084 00000004     0                         drawallui()
+0001a088 00000034     0                         CScr_GetInKillcam(cg_s*)
+0001a0bc 0000003c     0                         R_AllocShaderConstantSet(ShaderConstantSet*, char const*)
+0001a0f8 0000003c     0                         R_SetShaderConstantSetValueW(ShaderConstantSet*, int, float)
+0001a134 00000050     0                         R_SetShaderConstantSetValue(ShaderConstantSet*, int, float, float, float, float)
+0001a190 0000010c     0                         CG_SetWeaponMMSConstants(int, ShaderConstantSet*)
+0001a29c 0000003c     0                         CG_RelativeTeamColor(int, Vector4*, int)
+0001a2d8 0000003c     0                         R_UnmapShaderConstantSet(ShaderConstantSet*, int)
+0001a318 00000178     0                         R_MapShaderConstantSet(ShaderConstantSet*, int, char const*)
+0001a4a8 0000065c     0                         R_AddDObjToScene(DObj*, cpose_t*, unsigned int, unsigned int, Vector3*, float const*, float const*, int, int, ShaderConstantSet*, float, float)
+0001ab04 0000012c     0                         CG_SetupWeaponCamoRender(int, float*, WeaponDobjInfo*, unsigned int, WeaponDobjInfo*, int*)
+0001ac30 00000078     0                         BG_PlayerAnimation(int, int*, int*, Vector3, Vector3)
+0001cf80 00000038     0                         BG_PlayerAnimationStub(...)
+0001aca8 000002f4     0                         antifreezee()
+0001af9c 00000040     0                         Memcp_(void*, void const*, unsigned int)
+0001afdc 000002c0     0                         Menu_PaintAll(int, UiContext*)
+0001b2a8 000002f0     0                         CL_SendCmd(int)
+0001b598 00000110     0                         CL_WritePacket(int)
+0001b6a8 00000058     0                         ReLoadModule()
+0001b700 00000110     0                         _sys_io_cellPadGetData(unsigned int, CellPadData*)
+0001b810 00000128     0                         precacheAssets()
+0001b940 00000078     0                         Dialog::Show(char*)
+0001b9c0 000000e8     0                         inii()
+0001baa8 0000020c     0                         R_EndFrame()
+0001bcb4 00000004     0                         BG_CalculateWeaponMovement(weaponState_t*, Vector3*, Vector3*)
+0001bcb8 00000120     0                         CL_ConsolePrint(int, int, char const*, int, int, int)
+0001bdd8 00000174     0                         Com_Error(int, char const*, char*)
+0001bf50 0000027c     0                         LUI_LuaCall_DrawRectangleH(LUI_Element*, float, float, float, float, float, float, float, float, int, int)
+0001c1cc 0000005c     0                         BG_UnlockablesGetUsedAllocationH(int*, loadoutClass_t)
+0001c228 00000100     0                         CG_FireWeaponH(int, centity_t*, int, int, unsigned short, Weapon, playerState_s*, bool)
+0001c328 00000398     0                         CG_Player(int, centity_s*)
+0001c6c0 000000d0     0                         HandleAssets_Hook(int)
+0001c790 00000074     0                         Detour::AllocateStub()
+0001c804 000000dc     0                         Detour::Hook(int, void*)
+0001c8e0 000004b8     0                         ._BO1_MP_prx_entry
+0001cd98 00000050     0                         Detour::Detour()
+0001cde8 00000050     0                         Detour::Detour()
+0001ce38 000000b0     0                         Detour::~Detour()
+0001cef0 00000078     0                         Dialog::ShowYESNO(char*)
+0001cf68 00000018     0                         Dialog::End()
+0001db58 000010c8     4                 C:\Users\kiwi\Desktop\Hen\BO1_MP\BO1_MP\PS3_Debug\stdio_fix.o (TOC#1,116)
+0001db58 0000041c     0                         [local to stdio_fix_cpp]::std::fmtint(char*, unsigned int*, unsigned int, long long, int, int, int, int)
+0001df74 00000124     0                         [local to stdio_fix_cpp]::std::fmtstr(char*, unsigned int*, unsigned int, char const*, int, int, int)
+0001e098 00000964     0                         .vsnprintf
+0001e9fc 00000030     0                         .vsprintf
+0001ea2c 00000070     0                         .sprintf
+0001ea9c 0000004c     0                         .snprintf
+0001eae8 00000074     0                         std::console_print(char*)
+0001eb5c 000000c4     0                         .printf
+0001ec20 000000a8     4                 C:\Users\kiwi\Desktop\Hen\BO1_MP\BO1_MP\PS3_Debug\tickshot_mp.o (TOC#1,116)
+0001ec20 00000008     0                         BG_GetWeaponName(int, char*, unsigned int)
+0001ec28 00000004     0                         AimTarget_GetTargetBounds(centity_s*, float)
+0001ec2c 00000008     0                         CScr_GetCurrentWeapon(playerstate_s*)
+0001ec34 00000094     0                         trickshot_render()
+0001ecc8 00007e88     8                 C:\Users\kiwi\Desktop\Hen\BO1_MP\BO1_MP\PS3_Debug\visuals_mp.o (TOC#1,116)
+0001f224 0000000c     0                         _Z15AnglesToForward7Vector3S_f$rodata
+0001f3b0 00000014     0                         _Z8DrawLineffff5color$rodata
+0001f530 00000010     0                         _Z9DrawLine_ffff5colori$rodata
+0001f648 00000014     0                         _Z9MakeLines7Vector3ffffff5colori$rodata
+0001f880 00000014     0                         _Z11DrawVAngles7Vector3i5color$rodata
+0001fb08 00000024     0                         _Z10DCrosshair5color$rodata
+0001fff0 0000003c     0                         _Z9HealthBarP4cg_s$rodata
+000202cc 00000004     0                         _Z11DrawOutlineffff5colorPKci$rodata
+000204f8 0000001c     0                         _Z13DrawBorderBox7Vector2S_5color$rodata
+00020844 00000008     0                         _Z11GetBoxWidthi$rodata
+00020890 0000000c     0                         _Z12GetBoxHeighti$rodata
+000208f8 00000028     0                         _Z12Draw3DTriBoxi5color$rodata
+00020c94 0000001c     0                         _Z9Draw3DBoxi5color$rodata
+00021120 0000001c     0                         _Z13DrawBorderBoxi7Vector2S_5color$rodata
+00021390 00000020     0                         _Z12DrawBoxSolidi7Vector2S_5color$rodata
+000214c8 00000024     0                         _Z15DrawCorneredBoxi7Vector2S_5color$rodata
+000218a0 00000020     0                         _Z12HandleESPBoxii7Vector2S_5color$rodata
+00021b10 00000014     0                         _Z8DrawBoneP9centity_sss5color$rodata
+00021d90 00000010     0                         _Z21CG_DrawWarningPointeri5colorff$rodata
+00021f98 00000018     0                         _Z15HandleSnapLinesiP7Vector2S0_5color$rodata
+00022430 00000014     0                         _Z4proxi$rodata
+00022544 00000008     0                         _Z4disti7Vector25color$rodata
+0002280c 00000018     0                         _Z13EntityVisualsi$rodata
+00022f10 00000018     0                         _Z23CG_CompassDrawPlayerMap11CompassType$rodata
+000232e0 00000008     0                         _Z11ToggleRadarv$rodata
+000234e0 00000014     0                         _Z13drawcompass__v$rodata
+000235b8 00000034     0                         _Z17DrawRadarOutLinesv$rodata
+00023c90 00000018     0                         _Z17AngleNormalize360f$rodata
+00023d28 00000054     0                         _Z17DrawRadarDynamicsi5color11CompassType$rodata
+00024a08 00000034     0                         _Z19DrawRadarOutLineszmv$rodata
+00025210 00000034     0                         _Z19DrawRadarDynamicszmi5color$rodata
+00025598 00000014     0                         _Z17DrawTargetScannerffff5color$rodata
+000259a4 00000004     0                         _Z16AnglesToForward_P7Vector3f$rodata
+00025a84 00000044     0                         _Z15visual_rendermpv$rodata
+00026430 00000034     0                         _Z15visual_renderzmv$rodata
+00026b14 0000003c     0                         .__sti___14_visuals_mp_cpp_ec01b5fe
+0001ecc8 0000001c     0                         draw_allies(bool*)
+0001ece4 0000001c     0                         draw_radar(bool*)
+0001ed00 0000001c     0                         draw_axis(bool*)
+0001ed1c 00000010     0                         set_bound(int)
+0001ed2c 00000010     0                         set_snap(int)
+0001ed3c 00000064     0                         set_mod(int)
+0001eda0 00000064     0                         set_pen(int)
+0001ee04 0000001c     0                         draw_bones(bool*)
+0001ee20 0000001c     0                         draw_vangles(bool*)
+0001ee3c 0000001c     0                         draw_myvangles(bool*)
+0001ee58 0000001c     0                         draw_compass(bool*)
+0001ee74 0000001c     0                         draw_radartype(bool*)
+0001ee90 0000001c     0                         draw_healthbar(bool*)
+0001eeac 0000001c     0                         draw_proxwarn(bool*)
+0001eec8 0000001c     0                         draw_crossh(bool*)
+0001eee4 0000001c     0                         draw_names(bool*)
+0001ef00 0000001c     0                         draw_dist(bool*)
+0001ef1c 0000001c     0                         draw_chams(bool*)
+0001ef38 0000001c     0                         draw_wall(bool*)
+0001ef54 0000001c     0                         draw_ewall(bool*)
+0001ef70 0000001c     0                         draw_weapsworld(bool*)
+0001ef8c 0000001c     0                         draw_nadesworld(bool*)
+0001efa8 0000001c     0                         draw_scavsworld(bool*)
+0001efc4 0000001c     0                         draw_weappickupidsworld(bool*)
+0001efe0 0000001c     0                         draw_weappickupidsradar(bool*)
+0001effc 0000001c     0                         draw_draw_scavsradar(bool*)
+0001f018 0000001c     0                         draw_hellisradar(bool*)
+0001f034 0000001c     0                         draw_doggosradar(bool*)
+0001f050 0000001c     0                         draw_vehiclesradar(bool*)
+0001f06c 0000001c     0                         draw_turretsradar(bool*)
+0001f088 0000001c     0                         draw_artilleryradar(bool*)
+0001f0a4 0000001c     0                         draw_worldents(bool*)
+0001f0c0 0000001c     0                         draw_nadesradar(bool*)
+0001f0dc 0000001c     0                         draw_xhscavs(bool*)
+0001f0f8 0000001c     0                         draw_xhweaps(bool*)
+0001f114 0000001c     0                         draw_targetfinder(bool*)
+0001f130 0000001c     0                         draw_targetinfo(bool*)
+0001f14c 0000003c     0                         CG_IsClientInOurParty(int, int)
+0001f188 0000003c     0                         CG_DrawOverheadNames(int, centity_s*, float, int)
+0001f1c4 00000060     0                         Prox_in_Circle(Vector3, int, Vector3)
+0001f230 00000180     0                         AnglesToForward(Vector3, Vector3, float)
+0001f3c8 00000164     0                         DrawLine(float, float, float, float, color)
+0001f540 00000108     0                         DrawLine_(float, float, float, float, color, int)
+0001f660 00000220     0                         MakeLines(Vector3, float, float, float, float, float, float, color, int)
+0001f898 0000026c     0                         DrawVAngles(Vector3, int, color)
+0001fb30 000004c0     0                         DCrosshair(color)
+00020030 0000029c     0                         HealthBar(cg_s*)
+000202d0 00000228     0                         DrawOutline(float, float, float, float, color, char const*, int)
+00020518 0000032c     0                         DrawBorderBox(Vector2, Vector2, color)
+00020850 00000040     0                         GetBoxWidth(int)
+000208a0 00000058     0                         GetBoxHeight(int)
+00020920 00000374     0                         Draw3DTriBox(int, color)
+00020cb0 0000046c     0                         Draw3DBox(int, color)
+00021140 0000024c     0                         DrawBorderBox(int, Vector2, Vector2, color)
+000213b0 00000114     0                         DrawBoxSolid(int, Vector2, Vector2, color)
+000214f0 000003ac     0                         DrawCorneredBox(int, Vector2, Vector2, color)
+000218c0 00000250     0                         HandleESPBox(int, int, Vector2, Vector2, color)
+00021b28 00000260     0                         DrawBone(centity_s*, short, short, color)
+00021d88 00000004     0                         DoAllBones(centity_s*, color)
+00021da0 000001f8     0                         CG_DrawWarningPointer(int, color, float, float)
+00021fb0 00000480     0                         HandleSnapLines(int, Vector2*, Vector2*, color)
+00022448 000000fc     0                         prox(int)
+00022550 000000ec     0                         dist(int, Vector2, color)
+0002263c 000000bc     0                         CScr_IsAlive(int)
+000226f8 00000114     0                         EntityCount()
+00022828 0000047c     0                         EntityVisuals(int)
+00022ca4 0000003c     0                         CG_Vehicle_GetVehicleDef(centity_s*)
+00022ce0 00000008     0                         _mm_xor_ps(float, float)
+00022ce8 0000003c     0                         CG_CompassCalcDimensions(int, cg_sa*, rectDef_s*, rectDef_s*, float*, float*, float*, float*)
+00022d24 0000004c     0                         R_AddCmdDrawStretchPicRotateSTInternal(float, float, float, float, float, float, float, float, float, float, float const*, void*)
+00022d70 0000005c     0                         ScrPlace_ApplyRect(float*, float*, float*, float*, int, int)
+00022dcc 0000013c     0                         CL_DrawStretchPicRotatedSTInternal(float, float, float, float, int, int, float, float, float, float, float, float, color, void*)
+00022f08 00000008     0                         CG_WorldPosToCompass(CompassType, cg_sa*, rectDef_s*, Vector2*, Vector3*, Vector3*, int, Vector2*)
+00022f28 0000037c     0                         CG_CompassDrawPlayerMap(CompassType)
+000232a4 0000003c     0                         Com_SessionMode_IsMode(eSessionModes_mode)
+000232e8 000001f8     0                         ToggleRadar()
+000234f8 000000bc     0                         drawcompass__()
+000235f0 0000069c     0                         DrawRadarOutLines()
+00023ca8 00000080     0                         AngleNormalize360(float)
+00023d80 00000c88     0                         DrawRadarDynamics(int, color, CompassType)
+00024a40 000007cc     0                         DrawRadarOutLineszm()
+00025248 00000350     0                         DrawRadarDynamicszm(int, color)
+000255b0 000003f4     0                         DrawTargetScanner(float, float, float, float, color)
+000259a8 000000dc     0                         AnglesToForward_(Vector3*, float)
+00025ac8 00000968     0                         visual_rendermp()
+00026468 000006ac     0                         visual_renderzm()
+00026b50 000005c4     4                 C:\usr\local\cell\target\ppu\lib\libc.a(memcpy.o) (TOC#1,116)
+00026b6c 00000000     0                         .L310
+00026b94 00000000     0                         .L301
+00026c00 00000000     0                         .L11
+00026ce8 00000000     0                         .L148
+00026d40 00000000     0                         .L73
+00027070 00000000     0                         .L223
+000270c4 00000000     0                         .L225
+00026b50 000005c4     0                         .memcpy
+00027114 000000a4     4                 C:\usr\local\cell\target\ppu\lib\libc.a(strlen.o) (TOC#1,116)
+00027160 00000000     0                         .LstrlenCacheLoopOuter
+00027114 000000a4     0                         .strlen
+000271b8 000000ac     4                 C:\usr\local\cell\target\ppu\lib\libc.a(strstr.o) (TOC#1,116)
+000271e4 00000000     0                         .L4
+00027200 00000000     0                         .L19
+000271b8 000000ac     0                         .strstr
+00027264 0000020c     4                 C:\usr\local\cell\target\ppu\lib\libc.a(strchr.o) (TOC#1,116)
+00027328 00000000     0                         .L13
+00027440 00000000     0                         .L19
+00027448 00000000     0                         .L6
+0002745c 00000000     0                         .L15
+00027264 0000020c     0                         .strchr
+00027470 00000154     4                 C:\usr\local\cell\target\ppu\lib\libc.a(strcmp.o) (TOC#1,116)
+000274c8 00000000     0                         .L7
+000274ec 00000000     0                         .L9
+00027538 00000000     0                         .L6
+00027470 00000154     0                         .strcmp
+000275c4 000000ec     4                 C:\usr\local\cell\target\ppu\lib\libc.a(strcpy.o) (TOC#1,116)
+00027644 00000000     0                         .L22
+00027674 00000000     0                         .L18
+000275c4 000000ec     0                         .strcpy
+000276b0 000000d4     4                 C:\usr\local\cell\target\ppu\lib\libc.a(memset.o) (TOC#1,116)
+00027750 00000000     0                         .L17
+000276b0 000000d4     0                         .memset
+000276b0 000000d4     0                         .memset_cs
+00027784 00000080     4                 C:\usr\local\cell\target\ppu\lib\libm.a(floorf.o) (TOC#1,116)
+00027784 00000080     0                         .floorf
+00027804 00000114     4                 C:\usr\local\cell\target\ppu\lib\libm.a(xfdint.o) (TOC#1,116)
+00027834 00000000     0                         .L7
+00027804 00000114     0                         ._FDint
+00027918 0000003c     4                 C:\usr\local\cell\target\ppu\lib\libm.a(f_powf.o) (TOC#1,116)
+00027918 0000003c     0                         .f_powf
+00027954 00000178     4                 C:\usr\local\cell\target\ppu\lib\libm.a(f_atan2f.o) (TOC#1,116)
+000279b4 00000000     0                         .L23
+000279e8 00000000     0                         .L13
+00027954 00000178     0                         .f_atan2f
+00027acc 000000a0     4                 C:\usr\local\cell\target\ppu\lib\libm.a(xfatan.o) (TOC#1,116)
+00027b20 00000000     0                         .L7
+00027acc 000000a0     0                         ._FAtan
+00027b6c 0000006c     4                 C:\usr\local\cell\target\ppu\lib\libm.a(xfdtest.o) (TOC#1,116)
+00027bb8 00000000     0                         .L15
+00027b6c 0000006c     0                         ._FDtest
+00027bd8 0000008c     4                 C:\usr\local\cell\target\ppu\lib\libm.a(f_log2f.o) (TOC#1,116)
+00027bd8 0000008c     0                         ._f_log2f
+00027bd8 0000008c     0                         .f_log2f
+00027c64 000000e0     4                 C:\usr\local\cell\target\ppu\lib\libm.a(f_exp2f.o) (TOC#1,116)
+00027c64 000000e0     0                         ._f_exp2f
+00027c64 000000e0     0                         .f_exp2f
+00027d44 00000000     1                 C:\usr\local\cell\target\ppu\lib\libio_stub.a(_sys_io_0001_3.o) (TOC#1,116)
+00027d44 00000000     0                         _.prx.link.border.mark.sys_io.cellPadInit
+00027d44 00000000     1                 C:\usr\local\cell\target\ppu\lib\libio_stub.a(_sys_io_0001_27.o) (TOC#1,116)
+00027d44 00000000     0                         _.prx.link.border.mark.sys_io.cellPadGetData
+00027d44 00000000     1                 C:\usr\local\cell\target\ppu\lib\libio_stub.a(_sys_io_0001_head.o) (TOC#1,116)
+00027d44 00000000     1                 C:\usr\local\cell\target\ppu\lib\liblv2_stub.a(_sysPrxForUser_0001_16.o) (TOC#1,116)
+00027d44 00000000     0                         _.prx.link.border.mark.sysPrxForUser.sys_prx_load_module
+00027d44 00000000     1                 C:\usr\local\cell\target\ppu\lib\liblv2_stub.a(_sysPrxForUser_0001_44.o) (TOC#1,116)
+00027d44 00000000     0                         _.prx.link.border.mark.sysPrxForUser._sys_memcpy
+00027d44 00000000     1                 C:\usr\local\cell\target\ppu\lib\liblv2_stub.a(_sysPrxForUser_0001_67.o) (TOC#1,116)
+00027d44 00000000     0                         _.prx.link.border.mark.sysPrxForUser._sys_printf
+00027d44 00000000     1                 C:\usr\local\cell\target\ppu\lib\liblv2_stub.a(_sysPrxForUser_0001_68.o) (TOC#1,116)
+00027d44 00000000     0                         _.prx.link.border.mark.sysPrxForUser.sys_prx_start_module
+00027d44 00000000     1                 C:\usr\local\cell\target\ppu\lib\liblv2_stub.a(_sysPrxForUser_0001_71.o) (TOC#1,116)
+00027d44 00000000     0                         _.prx.link.border.mark.sysPrxForUser._sys_sprintf
+00027d44 00000000     1                 C:\usr\local\cell\target\ppu\lib\liblv2_stub.a(_sysPrxForUser_0001_90.o) (TOC#1,116)
+00027d44 00000000     0                         _.prx.link.border.mark.sysPrxForUser._sys_malloc
+00027d44 00000000     1                 C:\usr\local\cell\target\ppu\lib\liblv2_stub.a(_sysPrxForUser_0001_115.o) (TOC#1,116)
+00027d44 00000000     0                         _.prx.link.border.mark.sysPrxForUser._sys_free
+00027d44 00000000     1                 C:\usr\local\cell\target\ppu\lib\liblv2_stub.a(_sysPrxForUser_0001_head.o) (TOC#1,116)
+00027d44 00000000     1                 C:\usr\local\cell\target\ppu\lib\libsysutil_stub.a(_cellSysutil_0001_23.o) (TOC#1,116)
+00027d44 00000000     0                         _.prx.link.border.mark.cellSysutil.cellMsgDialogClose
+00027d44 00000000     1                 C:\usr\local\cell\target\ppu\lib\libsysutil_stub.a(_cellSysutil_0001_79.o) (TOC#1,116)
+00027d44 00000000     0                         _.prx.link.border.mark.cellSysutil.cellMsgDialogOpen2
+00027d44 00000000     1                 C:\usr\local\cell\target\ppu\lib\libsysutil_stub.a(_cellSysutil_0001_head.o) (TOC#1,116)
+00027d44 00000000     1                 C:\usr\local\cell\target\ppu\lib\libnetctl_stub.a(_cellNetCtl_0001_7.o) (TOC#1,116)
+00027d44 00000000     0                         _.prx.link.border.mark.cellNetCtl.cellNetCtlGetInfo
+00027d44 00000000     1                 C:\usr\local\cell\target\ppu\lib\libnetctl_stub.a(_cellNetCtl_0001_head.o) (TOC#1,116)
+00027d44 00000000     1                 C:\usr\local\cell\target\ppu\lib\libfs_stub.a(_sys_fs_0001_11.o) (TOC#1,116)
+00027d44 00000000     0                         _.prx.link.border.mark.sys_fs.cellFsClose
+00027d44 00000000     1                 C:\usr\local\cell\target\ppu\lib\libfs_stub.a(_sys_fs_0001_19.o) (TOC#1,116)
+00027d44 00000000     0                         _.prx.link.border.mark.sys_fs.cellFsRead
+00027d44 00000000     1                 C:\usr\local\cell\target\ppu\lib\libfs_stub.a(_sys_fs_0001_23.o) (TOC#1,116)
+00027d44 00000000     0                         _.prx.link.border.mark.sys_fs.cellFsOpen
+00027d44 00000000     1                 C:\usr\local\cell\target\ppu\lib\libfs_stub.a(_sys_fs_0001_40.o) (TOC#1,116)
+00027d44 00000000     0                         _.prx.link.border.mark.sys_fs.cellFsLseek
+00027d44 00000000     1                 C:\usr\local\cell\target\ppu\lib\libfs_stub.a(_sys_fs_0001_54.o) (TOC#1,116)
+00027d44 00000000     0                         _.prx.link.border.mark.sys_fs.cellFsWrite
+00027d44 00000000     1                 C:\usr\local\cell\target\ppu\lib\libfs_stub.a(_sys_fs_0001_55.o) (TOC#1,116)
+00027d44 00000000     0                         _.prx.link.border.mark.sys_fs.cellFsFstat
+00027d44 00000000     1                 C:\usr\local\cell\target\ppu\lib\libfs_stub.a(_sys_fs_0001_head.o) (TOC#1,116)
+00027d44 00000000     1                 C:\usr\local\cell\target\ppu\lib\libc.a(xfvalues.o) (TOC#1,116)
+00000000 00000000     1 .fini
+00000000 00000240     4 .sceStub.text
+00000000 00000020     4         .sceStub.text
+00000000 00000020     4                 C:\usr\local\cell\target\ppu\lib\libio_stub.a(_sys_io_0001_3.o) (TOC#1,116)
+00000000 00000020     0                         .cellPadInit
+00000020 00000020     4                 C:\usr\local\cell\target\ppu\lib\libio_stub.a(_sys_io_0001_27.o) (TOC#1,116)
+00000020 00000020     0                         .cellPadGetData
+00000040 00000020     4                 C:\usr\local\cell\target\ppu\lib\liblv2_stub.a(_sysPrxForUser_0001_16.o) (TOC#1,116)
+00000040 00000020     0                         .sys_prx_load_module
+00000060 00000020     4                 C:\usr\local\cell\target\ppu\lib\liblv2_stub.a(_sysPrxForUser_0001_44.o) (TOC#1,116)
+00000060 00000020     0                         ._sys_memcpy
+00000080 00000020     4                 C:\usr\local\cell\target\ppu\lib\liblv2_stub.a(_sysPrxForUser_0001_67.o) (TOC#1,116)
+00000080 00000020     0                         ._sys_printf
+000000a0 00000020     4                 C:\usr\local\cell\target\ppu\lib\liblv2_stub.a(_sysPrxForUser_0001_68.o) (TOC#1,116)
+000000a0 00000020     0                         .sys_prx_start_module
+000000c0 00000020     4                 C:\usr\local\cell\target\ppu\lib\liblv2_stub.a(_sysPrxForUser_0001_71.o) (TOC#1,116)
+000000c0 00000020     0                         ._sys_sprintf
+000000e0 00000020     4                 C:\usr\local\cell\target\ppu\lib\liblv2_stub.a(_sysPrxForUser_0001_90.o) (TOC#1,116)
+000000e0 00000020     0                         ._sys_malloc
+00000100 00000020     4                 C:\usr\local\cell\target\ppu\lib\liblv2_stub.a(_sysPrxForUser_0001_115.o) (TOC#1,116)
+00000100 00000020     0                         ._sys_free
+00000120 00000020     4                 C:\usr\local\cell\target\ppu\lib\libsysutil_stub.a(_cellSysutil_0001_23.o) (TOC#1,116)
+00000120 00000020     0                         .cellMsgDialogClose
+00000140 00000020     4                 C:\usr\local\cell\target\ppu\lib\libsysutil_stub.a(_cellSysutil_0001_79.o) (TOC#1,116)
+00000140 00000020     0                         .cellMsgDialogOpen2
+00000160 00000020     4                 C:\usr\local\cell\target\ppu\lib\libnetctl_stub.a(_cellNetCtl_0001_7.o) (TOC#1,116)
+00000160 00000020     0                         .cellNetCtlGetInfo
+00000180 00000020     4                 C:\usr\local\cell\target\ppu\lib\libfs_stub.a(_sys_fs_0001_11.o) (TOC#1,116)
+00000180 00000020     0                         .cellFsClose
+000001a0 00000020     4                 C:\usr\local\cell\target\ppu\lib\libfs_stub.a(_sys_fs_0001_19.o) (TOC#1,116)
+000001a0 00000020     0                         .cellFsRead
+000001c0 00000020     4                 C:\usr\local\cell\target\ppu\lib\libfs_stub.a(_sys_fs_0001_23.o) (TOC#1,116)
+000001c0 00000020     0                         .cellFsOpen
+000001e0 00000020     4                 C:\usr\local\cell\target\ppu\lib\libfs_stub.a(_sys_fs_0001_40.o) (TOC#1,116)
+000001e0 00000020     0                         .cellFsLseek
+00000200 00000020     4                 C:\usr\local\cell\target\ppu\lib\libfs_stub.a(_sys_fs_0001_54.o) (TOC#1,116)
+00000200 00000020     0                         .cellFsWrite
+00000220 00000020     4                 C:\usr\local\cell\target\ppu\lib\libfs_stub.a(_sys_fs_0001_55.o) (TOC#1,116)
+00000220 00000020     0                         .cellFsFstat
+00000000 00001e94     4 .rodata
+00000000 00000054     4         .rodata
+00000000 00000054     4                 C:\Users\kiwi\Desktop\Hen\BO1_MP\BO1_MP\PS3_Debug\aimassist_mp.o (TOC#1,116)
+00000000 0000001e     0                         ..LNst.shitcunt.0
+00000020 00000017     0                         ..LNst.shitcunt1.0
+00000038 0000000e     0                         ..LNst.shitcunt2.0
+00000048 0000000a     0                         ..LNst.shitcunt3.0
+00000054 00000040     4                 C:\Users\kiwi\Desktop\Hen\BO1_MP\BO1_MP\PS3_Debug\cheats_mp.o (TOC#1,116)
+00000054 00000021     0                         ..LNst._Z10unlock_allv.0
+0000007c 00000017     0                         ..LNst._Z10unlock_allv.1
+00000094 00000010     4                 C:\Users\kiwi\Desktop\Hen\BO1_MP\BO1_MP\PS3_Debug\console.o (TOC#1,116)
+00000094 0000000f     0                         ..LNst._ZN7Console4drawEv.0
+000000a4 00000284     4                 C:\Users\kiwi\Desktop\Hen\BO1_MP\BO1_MP\PS3_Debug\Functions.o (TOC#1,116)
+000000e8 00000008     0                         ..LNst._Z15TeleportToPowerv.0
+000000f0 00000016     0                         ..LNst._Z15TeleportToPowerv.1
+00000108 0000001b     0                         ..LNst._Z13TeleportToPaPv.0
+00000124 0000000a     0                         ..LNst._Z9cl_ingamev.0
+00000130 0000002f     0                         ..LNst._Z12I_ChangeClanv.0
+00000160 0000000e     0                         ..LNst._Z11I_ChangeAddv.0
+00000170 00000003     0                         ..LNst._Z11Flash_name_v.0
+00000174 0000000f     0                         ..LNst._Z19DrawTextWithEffectsPKcfff5color9alignment.0
+00000184 00000006     0                         ..LNst._Z13DrawBorderBoxffff5colorS_9drawTypes.0
+0000018c 00000010     0                         ..LNst._Z13DrawBorderBoxffff5colorS_S_.0
+0000019c 0000000e     0                         ..LNst._Z8ChangeIPPb.0
+000001ac 00000013     0                         ..LNst._Z8ChangeIPPb.1
+000001c0 00000020     0                         ..LNst._Z9StealNamei.0
+000001e0 00000024     0                         ..LNst._Z5isavev.0
+00000208 00000023     0                         ..LNst._Z5isavev.1
+00000230 00000010     0                         ..LNst._Z5isavev.2
+00000240 00000011     0                         ..LNst._Z5iloadv.0
+00000254 0000002a     0                         ..LNst._Z8loadcamoPKc.0
+00000280 00000005     0                         ..LNst._Z9Load_camov.0
+00000288 00000019     0                         ..LNst._Z9Load_camov.1
+000002a4 00000024     0                         ..LNst._Z15InjectCustomGSCv.0
+000000a4 00000003     0                         ..LNst.RandC.0
+000000ac 00000003     0                         ..LNst.RandC.1
+000000b4 00000003     0                         ..LNst.RandC.2
+000000bc 00000003     0                         ..LNst.RandC.3
+000000c4 00000003     0                         ..LNst.RandC.4
+000000cc 00000003     0                         ..LNst.RandC.5
+000000d4 00000003     0                         ..LNst.RandC.6
+000000dc 00000003     0                         ..LNst.RandC.7
+000000e4 00000003     0                         ..LNst.RandC.8
+000002cc 0000001f     0                         ..LNst._Z15InjectCustomGSCv.1
+000002ec 00000024     0                         ..LNst._ZN8injector6injectEPc.0
+00000310 00000017     0                         ..LNst._Z19CScr_VisionSetNakedv.0
+00000328 00001720     4                 C:\Users\kiwi\Desktop\Hen\BO1_MP\BO1_MP\PS3_Debug\menu.o (TOC#1,116)
+00000530 00000041     0                         ..LNst._Z11_Buttoninfov.0
+00000578 00000072     0                         ..LNst._Z11_Buttoninfov.1
+000005f0 00000079     0                         ..LNst._Z11_Buttoninfov.2
+0000066c 0000002c     0                         ..LNst._Z20Change_Name_completeiPKwj.0
+00000698 0000001c     0                         ..LNst._Z10dokeyboardv.0
+000006b8 00000002     0                         ..LNst._Z10dokeyboardv.1
+000006bc 00000018     0                         ..LNst._Z11dokeyboard1v.0
+000006d4 00000016     0                         ..LNst._Z7EndGamev.0
+000006ec 0000000d     0                         ..LNst._Z10Disconnectv.0
+000006fc 00000017     0                         ..LNst._Z12Ui_interfacev.0
+00000714 00000003     0                         ..LNst._Z12Ui_interfacev.1
+0000071c 0000000c     0                         ..LNst._Z12Ui_interfacev.2
+0000072c 00000009     0                         ..LNst._Z12Ui_interfacev.3
+0000073c 00000014     0                         ..LNst._Z12Ui_interfacev.4
+00000754 0000000d     0                         ..LNst._Z12Ui_interfacev.5
+00000764 0000000e     0                         ..LNst._Z12Ui_interfacev.6
+00000774 0000000f     0                         ..LNst._Z12Ui_interfacev.7
+00000784 0000000d     0                         ..LNst._Z12Ui_interfacev.8
+00000794 0000000e     0                         ..LNst._Z12Ui_interfacev.9
+000007a4 0000000e     0                         ..LNst._Z12Ui_interfacev.10
+000007b4 0000000f     0                         ..LNst._Z12Ui_interfacev.11
+000007c4 0000000c     0                         ..LNst._Z12Ui_interfacev.12
+000007d4 00000016     0                         ..LNst._Z12Ui_interfacev.13
+000007ec 00000010     0                         ..LNst._Z12Ui_interfacev.14
+000007fc 0000000d     0                         ..LNst._Z12Ui_interfacev.15
+0000080c 00000009     0                         ..LNst._Z12Ui_interfacev.16
+0000081c 0000000e     0                         ..LNst._Z12Ui_interfacev.17
+0000082c 0000000b     0                         ..LNst._Z12Ui_interfacev.18
+0000083c 00000009     0                         ..LNst._Z12Ui_interfacev.19
+0000084c 0000000c     0                         ..LNst._Z12Ui_interfacev.20
+0000085c 00000007     0                         ..LNst._Z12Ui_interfacev.21
+00000864 00000008     0                         ..LNst._Z12Ui_interfacev.22
+0000086c 0000000d     0                         ..LNst._Z12Ui_interfacev.23
+0000087c 0000000f     0                         ..LNst._Z12Ui_interfacev.24
+0000088c 00000006     0                         ..LNst._Z8addTitlePKci.0
+00000894 00000001     0                         ..LNst._Z8addTitlePKci.1
+0000089c 0000000e     0                         ..LNst._Z8addTitlePKci.2
+000008ac 0000000c     0                         ..LNst._Z8addTitlePKci.3
+000008bc 00000008     0                         ..LNst._Z8addTitlePKci.4
+000008c4 0000000f     0                         ..LNst._Z8addTitlePKci.5
+000008d4 00000006     0                         ..LNst._Z8addTitlePKci.6
+000008dc 00000010     0                         ..LNst._Z10addSubmenuPKci.0
+000008ec 00000014     0                         ..LNst._Z10addSubmenuPKci.1
+00000900 00000014     0                         ..LNst._Z13addCamoOptionPKcS0_.0
+00000914 0000000e     0                         ..LNst._Z6addBarPKcffPFvfEPfPcb.0
+00000924 0000000d     0                         ..LNst._Z6addBarPKcffPFvfEPfPcb.1
+00000934 00000003     0                         ..LNst._Z7addInt1PKciiiPFviEPiPcb.0
+00000938 00000004     0                         ..LNst._Z6addFPSPKcf.0
+0000093c 0000001a     0                         ..LNst._Z9addCheck1PKcPFvPbEPcS1_.0
+00000958 00000012     0                         ..LNst._Z8addComboPKcPS0_iiPFviES1_.0
+00000970 0000000d     0                         ..LNst._Z8addComboPKcPS0_iiPFviES1_.1
+00000980 00000008     0                         ..LNst._Z22SomeCamo_InfectionShitv.0
+00000988 0000001c     0                         ..LNst._Z22SomeCamo_InfectionShitv.1
+000009a4 0000000c     0                         ..LNst._Z6SignInv.0
+000009b0 0000000b     0                         ..LNst._Z13cheats_renderv.0
+000009bc 0000006f     0                         ..LNst._Z10RenderMenuv.0
+00000a2c 0000000a     0                         ..LNst._Z10RenderMenuv.1
+00000380 00000007     0                         ..LNst.aimtypes.0
+00000a3c 00000004     0                         ..LNst._Z10RenderMenuv.2
+00000a44 00000008     0                         ..LNst._Z10RenderMenuv.3
+00000a4c 00000007     0                         ..LNst._Z10RenderMenuv.4
+00000a54 00000008     0                         ..LNst._Z10RenderMenuv.5
+00000a5c 00000008     0                         ..LNst._Z10RenderMenuv.6
+00000a64 00000006     0                         ..LNst._Z10RenderMenuv.7
+00000a6c 00000006     0                         ..LNst._Z10RenderMenuv.8
+00000a74 00000007     0                         ..LNst._Z10RenderMenuv.9
+00000a7c 00000009     0                         ..LNst._Z10RenderMenuv.10
+00000a8c 0000000b     0                         ..LNst._Z10RenderMenuv.11
+00000a9c 0000000d     0                         ..LNst._Z10RenderMenuv.12
+00000aac 00000016     0                         ..LNst._Z10RenderMenuv.13
+00000ac4 0000000b     0                         ..LNst._Z10RenderMenuv.14
+00000ad4 00000009     0                         ..LNst._Z10RenderMenuv.15
+00000ae4 00000006     0                         ..LNst._Z10RenderMenuv.16
+00000aec 0000000f     0                         ..LNst._Z10RenderMenuv.17
+00000afc 0000000a     0                         ..LNst._Z10RenderMenuv.18
+00000b0c 0000000f     0                         ..LNst._Z10RenderMenuv.19
+00000b1c 0000000f     0                         ..LNst._Z10RenderMenuv.20
+00000b2c 00000006     0                         ..LNst._Z10RenderMenuv.21
+00000b34 00000005     0                         ..LNst._Z10RenderMenuv.22
+00000b3c 00000007     0                         ..LNst._Z10RenderMenuv.23
+00000b44 0000001b     0                         ..LNst._Z10RenderMenuv.24
+00000b64 00000007     0                         ..LNst._Z10RenderMenuv.25
+00000b6c 00000004     0                         ..LNst._Z10RenderMenuv.26
+00000b74 00000008     0                         ..LNst._Z10RenderMenuv.27
+00000b7c 00000011     0                         ..LNst._Z10RenderMenuv.28
+00000b94 0000001b     0                         ..LNst._Z10RenderMenuv.29
+00000bb4 00000008     0                         ..LNst._Z10RenderMenuv.30
+00000bbc 0000001c     0                         ..LNst._Z10RenderMenuv.31
+00000bdc 00000009     0                         ..LNst._Z10RenderMenuv.32
+00000bec 0000002e     0                         ..LNst._Z10RenderMenuv.33
+00000c1c 0000000e     0                         ..LNst._Z10RenderMenuv.34
+00000c2c 00000017     0                         ..LNst._Z10RenderMenuv.35
+00000c44 0000000e     0                         ..LNst._Z10RenderMenuv.36
+00000c54 00000018     0                         ..LNst._Z10RenderMenuv.37
+00000c6c 0000000c     0                         ..LNst._Z10RenderMenuv.38
+00000c7c 00000015     0                         ..LNst._Z10RenderMenuv.39
+00000c94 0000000b     0                         ..LNst._Z10RenderMenuv.40
+00000ca4 00000014     0                         ..LNst._Z10RenderMenuv.41
+00000cbc 0000000e     0                         ..LNst._Z10RenderMenuv.42
+00000ccc 00000017     0                         ..LNst._Z10RenderMenuv.43
+00000ce4 0000000e     0                         ..LNst._Z10RenderMenuv.44
+00000cf4 00000019     0                         ..LNst._Z10RenderMenuv.45
+00000d14 00000013     0                         ..LNst._Z10RenderMenuv.46
+00000d2c 00000020     0                         ..LNst._Z10RenderMenuv.47
+00000d4c 0000000a     0                         ..LNst._Z10RenderMenuv.48
+00000d5c 00000015     0                         ..LNst._Z10RenderMenuv.49
+00000d74 00000010     0                         ..LNst._Z10RenderMenuv.50
+00000d84 0000000f     0                         ..LNst._Z10RenderMenuv.51
+00000d94 0000000f     0                         ..LNst._Z10RenderMenuv.52
+00000da4 00000008     0                         ..LNst._Z10RenderMenuv.53
+00000dac 00000010     0                         ..LNst._Z10RenderMenuv.54
+00000dbc 0000000d     0                         ..LNst._Z10RenderMenuv.55
+00000dcc 00000011     0                         ..LNst._Z10RenderMenuv.56
+00000de4 0000000b     0                         ..LNst._Z10RenderMenuv.57
+00000df4 00000009     0                         ..LNst._Z10RenderMenuv.58
+00000e04 0000000f     0                         ..LNst._Z10RenderMenuv.59
+00000e14 0000000f     0                         ..LNst._Z10RenderMenuv.60
+00000e24 00000019     0                         ..LNst._Z10RenderMenuv.61
+00000e44 0000000a     0                         ..LNst._Z10RenderMenuv.62
+00000e54 0000000f     0                         ..LNst._Z10RenderMenuv.63
+00000e64 00000007     0                         ..LNst._Z10RenderMenuv.64
+00000e6c 0000000c     0                         ..LNst._Z10RenderMenuv.65
+00000e7c 00000006     0                         ..LNst._Z10RenderMenuv.66
+00000e84 0000000a     0                         ..LNst._Z10RenderMenuv.67
+00000e94 00000006     0                         ..LNst._Z10RenderMenuv.68
+00000e9c 00000013     0                         ..LNst._Z10RenderMenuv.69
+00000eb4 00000012     0                         ..LNst._Z10RenderMenuv.70
+00000ecc 00000026     0                         ..LNst._Z10RenderMenuv.71
+00000ef4 0000000b     0                         ..LNst._Z10RenderMenuv.72
+00000f04 0000001d     0                         ..LNst._Z10RenderMenuv.73
+00000f24 00000012     0                         ..LNst._Z10RenderMenuv.74
+00000f3c 00000023     0                         ..LNst._Z10RenderMenuv.75
+00000f64 0000000c     0                         ..LNst._Z10RenderMenuv.76
+00000f74 00000019     0                         ..LNst._Z10RenderMenuv.77
+00000f94 00000012     0                         ..LNst._Z10RenderMenuv.78
+00000fac 00000018     0                         ..LNst._Z10RenderMenuv.79
+00000fc4 00000009     0                         ..LNst._Z10RenderMenuv.80
+00000fd4 00000030     0                         ..LNst._Z10RenderMenuv.81
+00001004 0000000e     0                         ..LNst._Z10RenderMenuv.82
+00001014 00000013     0                         ..LNst._Z10RenderMenuv.83
+0000102c 0000000f     0                         ..LNst._Z10RenderMenuv.84
+0000103c 00000006     0                         ..LNst._Z10RenderMenuv.85
+00001044 0000000e     0                         ..LNst._Z10RenderMenuv.86
+00001054 0000001d     0                         ..LNst._Z10RenderMenuv.87
+00001074 00000010     0                         ..LNst._Z10RenderMenuv.88
+00001084 0000001d     0                         ..LNst._Z10RenderMenuv.89
+000010a4 00000010     0                         ..LNst._Z10RenderMenuv.90
+000010b4 0000001d     0                         ..LNst._Z10RenderMenuv.91
+000010d4 00000011     0                         ..LNst._Z10RenderMenuv.92
+000010ec 00000019     0                         ..LNst._Z10RenderMenuv.93
+0000110c 00000008     0                         ..LNst._Z10RenderMenuv.94
+00001114 0000001d     0                         ..LNst._Z10RenderMenuv.95
+00001134 0000000d     0                         ..LNst._Z10RenderMenuv.96
+00001144 0000001a     0                         ..LNst._Z10RenderMenuv.97
+00001164 00000009     0                         ..LNst._Z10RenderMenuv.98
+00001174 0000000b     0                         ..LNst._Z10RenderMenuv.99
+00001184 0000000f     0                         ..LNst._Z10RenderMenuv.100
+00001194 00000023     0                         ..LNst._Z10RenderMenuv.101
+000011bc 00000013     0                         ..LNst._Z10RenderMenuv.102
+000011d4 0000000e     0                         ..LNst._Z10RenderMenuv.103
+000011e4 0000000b     0                         ..LNst._Z10RenderMenuv.104
+000011f4 0000000c     0                         ..LNst._Z10RenderMenuv.105
+00001204 00000011     0                         ..LNst._Z10RenderMenuv.106
+0000121c 00000005     0                         ..LNst._Z10RenderMenuv.107
+00001224 0000000a     0                         ..LNst._Z10RenderMenuv.108
+00001234 00000009     0                         ..LNst._Z10RenderMenuv.109
+00001244 0000000e     0                         ..LNst._Z10RenderMenuv.110
+00001254 00000008     0                         ..LNst._Z10RenderMenuv.111
+0000125c 0000000d     0                         ..LNst._Z10RenderMenuv.112
+0000126c 0000000a     0                         ..LNst._Z10RenderMenuv.113
+0000127c 0000000f     0                         ..LNst._Z10RenderMenuv.114
+0000128c 00000016     0                         ..LNst._Z10RenderMenuv.115
+000012a4 0000001d     0                         ..LNst._Z10RenderMenuv.116
+000012c4 00000010     0                         ..LNst._Z10RenderMenuv.117
+000012d4 00000014     0                         ..LNst._Z10RenderMenuv.118
+000012ec 0000000c     0                         ..LNst._Z10RenderMenuv.119
+000012fc 0000000b     0                         ..LNst._Z10RenderMenuv.120
+0000130c 00000021     0                         ..LNst._Z10RenderMenuv.121
+00001334 0000000f     0                         ..LNst._Z10RenderMenuv.122
+00001344 00000024     0                         ..LNst._Z10RenderMenuv.123
+0000136c 00000004     0                         ..LNst._Z10RenderMenuv.124
+00001374 0000000e     0                         ..LNst._Z10RenderMenuv.125
+00001384 0000000a     0                         ..LNst._Z10RenderMenuv.126
+00001394 0000000b     0                         ..LNst._Z10RenderMenuv.127
+000013a4 00000009     0                         ..LNst._Z10RenderMenuv.128
+000013b4 0000001e     0                         ..LNst._Z10RenderMenuv.129
+000013e4 00000020     0                         ..LNst._Z10RenderMenuv.131
+000013d4 0000000c     0                         ..LNst._Z10RenderMenuv.130
+00001404 0000000b     0                         ..LNst._Z10RenderMenuv.132
+00001414 00000021     0                         ..LNst._Z10RenderMenuv.133
+0000144c 0000001e     0                         ..LNst._Z10RenderMenuv.135
+0000143c 0000000a     0                         ..LNst._Z10RenderMenuv.134
+0000146c 0000000b     0                         ..LNst._Z10RenderMenuv.136
+0000147c 00000014     0                         ..LNst._Z10RenderMenuv.137
+00001494 0000000d     0                         ..LNst._Z10RenderMenuv.138
+000014a4 00000012     0                         ..LNst._Z10RenderMenuv.139
+000014bc 00000009     0                         ..LNst._Z10RenderMenuv.140
+000014cc 0000002f     0                         ..LNst._Z10RenderMenuv.141
+000014fc 00000009     0                         ..LNst._Z10RenderMenuv.142
+0000150c 0000000b     0                         ..LNst._Z10RenderMenuv.143
+0000151c 00000006     0                         ..LNst._Z10RenderMenuv.144
+00001524 00000010     0                         ..LNst._Z10RenderMenuv.145
+00001534 0000000c     0                         ..LNst._Z10RenderMenuv.146
+00001554 00000012     0                         ..LNst._Z10RenderMenuv.148
+00001544 0000000b     0                         ..LNst._Z10RenderMenuv.147
+00001574 0000000e     0                         ..LNst._Z10RenderMenuv.150
+0000156c 00000007     0                         ..LNst._Z10RenderMenuv.149
+00001584 00000005     0                         ..LNst._Z10RenderMenuv.151
+0000158c 0000001d     0                         ..LNst._Z10RenderMenuv.152
+000015ac 00000009     0                         ..LNst._Z10RenderMenuv.153
+000015bc 00000021     0                         ..LNst._Z10RenderMenuv.154
+000015e4 0000000b     0                         ..LNst._Z10RenderMenuv.155
+000015f4 00000014     0                         ..LNst._Z10RenderMenuv.156
+0000160c 00000011     0                         ..LNst._Z10RenderMenuv.157
+00001624 0000000c     0                         ..LNst._Z10RenderMenuv.158
+00001644 0000000b     0                         ..LNst._Z10RenderMenuv.160
+00001634 0000000c     0                         ..LNst._Z10RenderMenuv.159
+00001654 00000013     0                         ..LNst._Z10RenderMenuv.161
+0000166c 00000012     0                         ..LNst._Z10RenderMenuv.162
+00001684 00000010     0                         ..LNst._Z10RenderMenuv.163
+00001694 0000002a     0                         ..LNst._Z10RenderMenuv.164
+000016c4 0000000e     0                         ..LNst._Z10RenderMenuv.165
+000016ec 00000013     0                         ..LNst._Z10RenderMenuv.167
+000016d4 00000014     0                         ..LNst._Z10RenderMenuv.166
+00001704 00000012     0                         ..LNst._Z10RenderMenuv.168
+0000171c 0000000c     0                         ..LNst._Z10RenderMenuv.169
+00001744 0000000b     0                         ..LNst._Z10RenderMenuv.171
+0000172c 00000011     0                         ..LNst._Z10RenderMenuv.170
+0000176c 00000011     0                         ..LNst._Z10RenderMenuv.173
+00001754 00000017     0                         ..LNst._Z10RenderMenuv.172
+00001784 0000000d     0                         ..LNst._Z10RenderMenuv.174
+00001794 0000000c     0                         ..LNst._Z10RenderMenuv.175
+000017b4 00000008     0                         ..LNst._Z10RenderMenuv.177
+000017a4 00000010     0                         ..LNst._Z10RenderMenuv.176
+000017bc 00000014     0                         ..LNst._Z10RenderMenuv.178
+000017d4 0000000e     0                         ..LNst._Z10RenderMenuv.179
+000017e4 0000000a     0                         ..LNst._Z10RenderMenuv.180
+000017f4 0000000e     0                         ..LNst._Z10RenderMenuv.181
+00001804 00000010     0                         ..LNst._Z10RenderMenuv.182
+00001814 0000000c     0                         ..LNst._Z10RenderMenuv.183
+00001824 00000020     0                         ..LNst._Z10RenderMenuv.184
+00001844 0000000a     0                         ..LNst._Z10RenderMenuv.185
+00001854 00000017     0                         ..LNst._Z10RenderMenuv.186
+0000186c 0000000c     0                         ..LNst._Z10RenderMenuv.187
+0000187c 00000004     0                         ..LNst._Z10RenderMenuv.188
+00001884 00000007     0                         ..LNst._Z10RenderMenuv.189
+0000188c 00000007     0                         ..LNst._Z10RenderMenuv.190
+00001894 00000006     0                         ..LNst._Z10RenderMenuv.191
+0000189c 00000005     0                         ..LNst._Z10RenderMenuv.192
+000018a4 00000007     0                         ..LNst._Z10RenderMenuv.193
+000018ac 00000005     0                         ..LNst._Z10RenderMenuv.194
+000018b4 0000000b     0                         ..LNst._Z10RenderMenuv.195
+000018c4 00000009     0                         ..LNst._Z10RenderMenuv.196
+000018d4 00000009     0                         ..LNst._Z10RenderMenuv.197
+000018e4 00000008     0                         ..LNst._Z10RenderMenuv.198
+000018ec 00000009     0                         ..LNst._Z10RenderMenuv.199
+000018fc 0000000b     0                         ..LNst._Z10RenderMenuv.200
+0000190c 0000000e     0                         ..LNst._Z10RenderMenuv.201
+0000191c 0000000b     0                         ..LNst._Z10RenderMenuv.202
+0000192c 0000000a     0                         ..LNst._Z10RenderMenuv.203
+0000193c 0000000c     0                         ..LNst._Z10RenderMenuv.204
+0000194c 0000000b     0                         ..LNst._Z10RenderMenuv.205
+0000195c 0000000f     0                         ..LNst._Z10RenderMenuv.206
+0000196c 0000000c     0                         ..LNst._Z10RenderMenuv.207
+0000197c 0000000c     0                         ..LNst._Z10RenderMenuv.208
+0000198c 00000013     0                         ..LNst._Z10RenderMenuv.209
+000019a4 0000001f     0                         ..LNst._Z10RenderMenuv.210
+000019c4 0000000a     0                         ..LNst._Z10RenderMenuv.211
+000019d4 00000008     0                         ..LNst._Z10RenderMenuv.212
+000019dc 0000000a     0                         ..LNst._Z10RenderMenuv.213
+000019ec 0000000a     0                         ..LNst._Z10RenderMenuv.214
+000019fc 0000000b     0                         ..LNst._Z10RenderMenuv.215
+00001a0c 0000000f     0                         ..LNst._Z10RenderMenuv.216
+00001a1c 0000000c     0                         ..LNst._Z10RenderMenuv.217
+00001a28 00000010     0                         ..LNst._Z10HandleMenuv.0
+00001a38 00000010     0                         ..LNst._Z10HandleMenuv.1
+00000328 0000000f     0                         ..LNst.aimtypesDec.0
+00000338 0000000e     0                         ..LNst.aimtypesDec.1
+00000348 0000000c     0                         ..LNst.aimtypesDec.2
+00000358 00000023     0                         ..LNst.aimtypesDec.3
+00000388 0000000a     0                         ..LNst.aimtypes.1
+00000398 00000008     0                         ..LNst.aimtypes.2
+000003a0 0000000b     0                         ..LNst.aimtypes.3
+000003b0 0000002a     0                         ..LNst.tagtypesDec.0
+000003e0 00000005     0                         ..LNst.tagtypesDec.1
+000003e8 00000006     0                         ..LNst.tagtypesDec.2
+000003f0 0000000a     0                         ..LNst.tagtypesDec.3
+00000400 0000000b     0                         ..LNst.tagtypesDec.4
+00000410 0000000a     0                         ..LNst.tagtypes.0
+00000420 00000005     0                         ..LNst.keytypesDec.0
+00000428 00000022     0                         ..LNst.keytypesDec.1
+00000450 00000003     0                         ..LNst.keytypes.0
+00000458 00000007     0                         ..LNst.bound_type.0
+00000460 00000007     0                         ..LNst.bound_type.1
+00000468 0000000e     0                         ..LNst.bound_type.2
+00000478 00000007     0                         ..LNst.bound_type.3
+00000480 0000000c     0                         ..LNst.bound_type.4
+00000490 00000013     0                         ..LNst.bound_typedec.0
+000004a8 00000011     0                         ..LNst.bound_typedec.1
+000004c0 00000011     0                         ..LNst.bound_typedec.2
+000004d8 00000011     0                         ..LNst.bound_typedec.3
+000004f0 0000000c     0                         ..LNst.bound_typedec.4
+00000500 00000011     0                         ..LNst.bound_typedec.5
+00000518 00000004     0                         ..LNst.snap_type.0
+00000520 00000007     0                         ..LNst.snap_type.1
+00000528 00000007     0                         ..LNst.snap_type.2
+00001a48 00000284     4                 C:\Users\kiwi\Desktop\Hen\BO1_MP\BO1_MP\PS3_Debug\prx.o (TOC#1,116)
+00001ab4 0000000d     0                         ..LNst._Z24CG_SetWeaponMMSConstantsiP17ShaderConstantSet.0
+00001ac4 0000000e     0                         ..LNst._Z16R_AddDObjToSceneP4DObjP7cpose_tjjP7Vector3PKfS6_iiP17ShaderConstantSetff.0
+00001ad4 0000000e     0                         ..LNst._Z16R_AddDObjToSceneP4DObjP7cpose_tjjP7Vector3PKfS6_iiP17ShaderConstantSetff.1
+00001ae4 0000000e     0                         ..LNst._Z16R_AddDObjToSceneP4DObjP7cpose_tjjP7Vector3PKfS6_iiP17ShaderConstantSetff.2
+00001af4 00000006     0                         ..LNst._Z13Menu_PaintAlliP9UiContext.0
+00001afc 0000001a     0                         ..LNst._Z12ReLoadModulev.0
+00001b18 000000e1     0                         ..LNst._Z4iniiv.0
+00001bfc 00000011     0                         ..LNst._Z26LUI_LuaCall_DrawRectangleHP11LUI_Elementffffffffii.0
+00001c14 00000006     0                         ..LNst._Z26LUI_LuaCall_DrawRectangleHP11LUI_Elementffffffffii.1
+00001c1c 00000008     0                         ..LNst._Z26LUI_LuaCall_DrawRectangleHP11LUI_Elementffffffffii.2
+00001c24 00000014     0                         ..LNst._Z26LUI_LuaCall_DrawRectangleHP11LUI_Elementffffffffii.3
+00001c3c 00000016     0                         ..LNst._Z26LUI_LuaCall_DrawRectangleHP11LUI_Elementffffffffii.4
+00001c54 0000000a     0                         ..LNst._Z26LUI_LuaCall_DrawRectangleHP11LUI_Elementffffffffii.5
+00001c60 0000000a     0                         ..LNst._Z17HandleAssets_Hooki.0
+00001c70 0000001d     0                         ..LNst._Z17HandleAssets_Hooki.1
+00001c90 0000000f     0                         ..LNst._Z17HandleAssets_Hooki.2
+00001ca0 00000011     0                         ..LNst._Z17HandleAssets_Hooki.3
+00001cb4 00000005     0                         ..LNst._BO1_MP_prx_entry.0
+00001cbc 00000010     0                         ..LNst._BO1_MP_prx_entry.1
+00001a48 0000000b     0                         ..LNst.SNames.0
+00001a58 0000000b     0                         ..LNst.SNames.1
+00001a68 0000000a     0                         ..LNst.SNames.2
+00001a78 0000000a     0                         ..LNst.SNames.3
+00001a88 0000000d     0                         ..LNst.SNames.4
+00001a98 00000007     0                         ..LNst.SNames.5
+00001aa0 00000007     0                         ..LNst.SNames.6
+00001aa8 00000009     0                         ..LNst.SNames.7
+00001ccc 0000003c     4                 C:\Users\kiwi\Desktop\Hen\BO1_MP\BO1_MP\PS3_Debug\stdio_fix.o (TOC#1,116)
+00001ccc 00000011     0                         ..LNst._ZN35_INTERNAL_13_stdio_fix_cpp_ff339768St7convertEyPcjii.0
+00001ce4 00000011     0                         ..LNst._ZN35_INTERNAL_13_stdio_fix_cpp_ff339768St7convertEyPcjii.1
+00001cf8 00000007     0                         ..LNst._ZN35_INTERNAL_13_stdio_fix_cpp_ff339768St6fmtstrEPcPjjPKciii.0
+00001d00 00000006     0                         ..LNst.vsnprintf.0
+00001d08 00000030     4                 C:\Users\kiwi\Desktop\Hen\BO1_MP\BO1_MP\PS3_Debug\tickshot_mp.o (TOC#1,116)
+00001d08 0000000c     0                         ..LNst._Z16trickshot_renderv.0
+00001d30 00000008     0                         ..LNst._Z16trickshot_renderv.3
+00001d18 00000009     0                         ..LNst._Z16trickshot_renderv.1
+00001d28 00000007     0                         ..LNst._Z16trickshot_renderv.2
+00001d38 00000114     4                 C:\Users\kiwi\Desktop\Hen\BO1_MP\BO1_MP\PS3_Debug\visuals_mp.o (TOC#1,116)
+00001d38 00000006     0                         ..LNst._Z8DrawLineffff5color.0
+00001d40 0000000e     0                         ..LNst._Z9HealthBarP4cg_s.0
+00001d50 00000010     0                         ..LNst._Z4proxi.0
+00001d60 0000000a     0                         ..LNst._Z4disti7Vector25color.0
+00001d6c 00000001     0                         ..LNst._Z12CScr_IsAlivei.0
+00001d70 00000012     0                         ..LNst._Z13EntityVisualsi.0
+00001d88 00000015     0                         ..LNst._Z13EntityVisualsi.1
+00001da0 0000000c     0                         ..LNst._Z13EntityVisualsi.2
+00001dac 00000013     0                         ..LNst._Z17DrawRadarOutLinesv.0
+00001dc0 00000005     0                         ..LNst._Z17DrawRadarDynamicsi5color11CompassType.0
+00001dc8 00000010     0                         ..LNst._Z17DrawRadarDynamicsi5color11CompassType.1
+00001dd8 00000011     0                         ..LNst._Z17DrawRadarDynamicsi5color11CompassType.2
+00001df0 00000015     0                         ..LNst._Z17DrawRadarDynamicsi5color11CompassType.3
+00001e08 0000000b     0                         ..LNst._Z17DrawRadarDynamicsi5color11CompassType.4
+00001e18 00000020     0                         ..LNst._Z17DrawRadarDynamicsi5color11CompassType.5
+00001e38 00000013     0                         ..LNst._Z19DrawRadarOutLineszmv.0
+00001e4c 00000028     4                 C:\usr\local\cell\target\ppu\lib\libm.a(xfdint.o) (TOC#1,116)
+00001e4c 00000028     0                         .LANCHOR0
+00001e4c 00000020     0                         mask.5376
+00001e6c 00000008     0                         sub.5377
+00001e74 00000020     4                 C:\usr\local\cell\target\ppu\lib\libm.a(xfatan.o) (TOC#1,116)
+00001e74 00000020     0                         .LANCHOR0
+00001e74 00000020     0                         a
+00000000 00000000     1 .PpuGUID
+00000000 00000000     1 .rodata1
+00000000 00000000     1 .spu_image
+00000000 00000004     4 .lib.ent.top
+00000000 00000004     4         .lib.ent.top
+00000000 00000004     4                 C:\Users\kiwi\Desktop\Hen\BO1_MP\BO1_MP\PS3_Debug\prx.o (TOC#1,116)
+00000000 00000004     0                         __begin_of_section_lib_ent
+00000000 00000000     1 .lib.ent
+00000000 00000004     4 .lib.ent.btm
+00000000 00000004     4         .lib.ent.btm
+00000000 00000004     4                 C:\Users\kiwi\Desktop\Hen\BO1_MP\BO1_MP\PS3_Debug\prx.o (TOC#1,116)
+00000000 00000004     0                         __end_of_section_lib_ent
+00000000 00000004     4 .lib.stub.top
+00000000 00000004     4         .lib.stub.top
+00000000 00000004     4                 C:\Users\kiwi\Desktop\Hen\BO1_MP\BO1_MP\PS3_Debug\prx.o (TOC#1,116)
+00000000 00000004     0                         __begin_of_section_lib_stub
+00000000 000000dc     4 .lib.stub
+00000000 0000002c     4         .lib.stub
+00000000 0000002c     4                 C:\usr\local\cell\target\ppu\lib\libio_stub.a(_sys_io_0001_head.o) (TOC#1,116)
+00000000 00000000     0                         _sys_io_0001_stub_head
+0000002c 0000002c     4                 C:\usr\local\cell\target\ppu\lib\liblv2_stub.a(_sysPrxForUser_0001_head.o) (TOC#1,116)
+0000002c 00000000     0                         _sysPrxForUser_0001_stub_head
+00000058 0000002c     4                 C:\usr\local\cell\target\ppu\lib\libsysutil_stub.a(_cellSysutil_0001_head.o) (TOC#1,116)
+00000058 00000000     0                         _cellSysutil_0001_stub_head
+00000084 0000002c     4                 C:\usr\local\cell\target\ppu\lib\libnetctl_stub.a(_cellNetCtl_0001_head.o) (TOC#1,116)
+00000084 00000000     0                         _cellNetCtl_0001_stub_head
+000000b0 0000002c     4                 C:\usr\local\cell\target\ppu\lib\libfs_stub.a(_sys_fs_0001_head.o) (TOC#1,116)
+000000b0 00000000     0                         _sys_fs_0001_stub_head
+00000000 00000004     4 .lib.stub.btm
+00000000 00000004     4         .lib.stub.btm
+00000000 00000004     4                 C:\Users\kiwi\Desktop\Hen\BO1_MP\BO1_MP\PS3_Debug\prx.o (TOC#1,116)
+00000000 00000004     0                         __end_of_section_lib_stub
+00000000 00000034     4 .rodata.sceModuleInfo
+00000000 00000034     4         .rodata.sceModuleInfo
+00000000 00000034     4                 C:\Users\kiwi\Desktop\Hen\BO1_MP\BO1_MP\PS3_Debug\prx.o (TOC#1,116)
+00000000 00000034     0                         __psp_moduleinfo
+00000000 0000004c     4 .rodata.sceResident
+00000000 0000000c     4         .rodata.sceResident
+00000000 0000000c     4                 C:\usr\local\cell\target\ppu\lib\libio_stub.a(_sys_io_0001_head.o) (TOC#1,116)
+00000000 00000000     0                         _sce_package_version_sys_io
+00000004 00000000     0                         _sys_io_stub_str
+0000000c 00000014     4                 C:\usr\local\cell\target\ppu\lib\liblv2_stub.a(_sysPrxForUser_0001_head.o) (TOC#1,116)
+0000000c 00000000     0                         _sce_package_version_sysPrxForUser
+00000010 00000000     0                         _sysPrxForUser_stub_str
+00000020 00000010     4                 C:\usr\local\cell\target\ppu\lib\libsysutil_stub.a(_cellSysutil_0001_head.o) (TOC#1,116)
+00000020 00000000     0                         _sce_package_version_cellSysutil
+00000024 00000000     0                         _cellSysutil_stub_str
+00000030 00000010     4                 C:\usr\local\cell\target\ppu\lib\libnetctl_stub.a(_cellNetCtl_0001_head.o) (TOC#1,116)
+00000030 00000000     0                         _sce_package_version_cellNetCtl
+00000034 00000000     0                         _cellNetCtl_stub_str
+00000040 0000000c     4                 C:\usr\local\cell\target\ppu\lib\libfs_stub.a(_sys_fs_0001_head.o) (TOC#1,116)
+00000040 00000000     0                         _sce_package_version_sys_fs
+00000044 00000000     0                         _sys_fs_stub_str
+00000000 00000048     4 .rodata.sceFNID
+00000000 00000004     4         .rodata.sceFNID
+00000000 00000004     4                 C:\usr\local\cell\target\ppu\lib\libio_stub.a(_sys_io_0001_3.o) (TOC#1,116)
+00000004 00000004     4                 C:\usr\local\cell\target\ppu\lib\libio_stub.a(_sys_io_0001_27.o) (TOC#1,116)
+00000008 00000004     4                 C:\usr\local\cell\target\ppu\lib\liblv2_stub.a(_sysPrxForUser_0001_16.o) (TOC#1,116)
+0000000c 00000004     4                 C:\usr\local\cell\target\ppu\lib\liblv2_stub.a(_sysPrxForUser_0001_44.o) (TOC#1,116)
+00000010 00000004     4                 C:\usr\local\cell\target\ppu\lib\liblv2_stub.a(_sysPrxForUser_0001_67.o) (TOC#1,116)
+00000014 00000004     4                 C:\usr\local\cell\target\ppu\lib\liblv2_stub.a(_sysPrxForUser_0001_68.o) (TOC#1,116)
+00000018 00000004     4                 C:\usr\local\cell\target\ppu\lib\liblv2_stub.a(_sysPrxForUser_0001_71.o) (TOC#1,116)
+0000001c 00000004     4                 C:\usr\local\cell\target\ppu\lib\liblv2_stub.a(_sysPrxForUser_0001_90.o) (TOC#1,116)
+00000020 00000004     4                 C:\usr\local\cell\target\ppu\lib\liblv2_stub.a(_sysPrxForUser_0001_115.o) (TOC#1,116)
+00000024 00000004     4                 C:\usr\local\cell\target\ppu\lib\libsysutil_stub.a(_cellSysutil_0001_23.o) (TOC#1,116)
+00000028 00000004     4                 C:\usr\local\cell\target\ppu\lib\libsysutil_stub.a(_cellSysutil_0001_79.o) (TOC#1,116)
+0000002c 00000004     4                 C:\usr\local\cell\target\ppu\lib\libnetctl_stub.a(_cellNetCtl_0001_7.o) (TOC#1,116)
+00000030 00000004     4                 C:\usr\local\cell\target\ppu\lib\libfs_stub.a(_sys_fs_0001_11.o) (TOC#1,116)
+00000034 00000004     4                 C:\usr\local\cell\target\ppu\lib\libfs_stub.a(_sys_fs_0001_19.o) (TOC#1,116)
+00000038 00000004     4                 C:\usr\local\cell\target\ppu\lib\libfs_stub.a(_sys_fs_0001_23.o) (TOC#1,116)
+0000003c 00000004     4                 C:\usr\local\cell\target\ppu\lib\libfs_stub.a(_sys_fs_0001_40.o) (TOC#1,116)
+00000040 00000004     4                 C:\usr\local\cell\target\ppu\lib\libfs_stub.a(_sys_fs_0001_54.o) (TOC#1,116)
+00000044 00000004     4                 C:\usr\local\cell\target\ppu\lib\libfs_stub.a(_sys_fs_0001_55.o) (TOC#1,116)
+00000000 00000000     1 .rodata.sceVNID
+00000000 00000000     1 .rodata.sceTNID
+00000000 00000000     1 .rodata.sceVStub
+00000000 00000000     1 .rodata.prxconfig
+00000000 00000000     1 .sdata2
+00000000 00000000     1 .sbss2
+00000000 00000000     1 .eh_frame_hdr
+00000000 00000000     1 .preinit_array
+00000000 00000000     1 .init_array
+00000000 00000000     1 .fini_array
+00000000 00000048     4 .data.sceFStub
+00000000 00000004     4         .data.sceFStub.cellNetCtl
+00000000 00000004     4                 C:\usr\local\cell\target\ppu\lib\libnetctl_stub.a(_cellNetCtl_0001_7.o) (TOC#1,116)
+00000000 00000004     0                         cellNetCtlGetInfo.stub_entry
+00000004 00000004     4         .data.sceFStub.cellSysutil
+00000004 00000004     4                 C:\usr\local\cell\target\ppu\lib\libsysutil_stub.a(_cellSysutil_0001_23.o) (TOC#1,116)
+00000004 00000004     0                         cellMsgDialogClose.stub_entry
+00000008 00000004     4                 C:\usr\local\cell\target\ppu\lib\libsysutil_stub.a(_cellSysutil_0001_79.o) (TOC#1,116)
+00000008 00000004     0                         cellMsgDialogOpen2.stub_entry
+0000000c 00000004     4         .data.sceFStub.sysPrxForUser
+0000000c 00000004     4                 C:\usr\local\cell\target\ppu\lib\liblv2_stub.a(_sysPrxForUser_0001_16.o) (TOC#1,116)
+0000000c 00000004     0                         sys_prx_load_module.stub_entry
+00000010 00000004     4                 C:\usr\local\cell\target\ppu\lib\liblv2_stub.a(_sysPrxForUser_0001_44.o) (TOC#1,116)
+00000010 00000004     0                         _sys_memcpy.stub_entry
+00000014 00000004     4                 C:\usr\local\cell\target\ppu\lib\liblv2_stub.a(_sysPrxForUser_0001_67.o) (TOC#1,116)
+00000014 00000004     0                         _sys_printf.stub_entry
+00000018 00000004     4                 C:\usr\local\cell\target\ppu\lib\liblv2_stub.a(_sysPrxForUser_0001_68.o) (TOC#1,116)
+00000018 00000004     0                         sys_prx_start_module.stub_entry
+0000001c 00000004     4                 C:\usr\local\cell\target\ppu\lib\liblv2_stub.a(_sysPrxForUser_0001_71.o) (TOC#1,116)
+0000001c 00000004     0                         _sys_sprintf.stub_entry
+00000020 00000004     4                 C:\usr\local\cell\target\ppu\lib\liblv2_stub.a(_sysPrxForUser_0001_90.o) (TOC#1,116)
+00000020 00000004     0                         _sys_malloc.stub_entry
+00000024 00000004     4                 C:\usr\local\cell\target\ppu\lib\liblv2_stub.a(_sysPrxForUser_0001_115.o) (TOC#1,116)
+00000024 00000004     0                         _sys_free.stub_entry
+00000028 00000004     4         .data.sceFStub.sys_fs
+00000028 00000004     4                 C:\usr\local\cell\target\ppu\lib\libfs_stub.a(_sys_fs_0001_11.o) (TOC#1,116)
+00000028 00000004     0                         cellFsClose.stub_entry
+0000002c 00000004     4                 C:\usr\local\cell\target\ppu\lib\libfs_stub.a(_sys_fs_0001_19.o) (TOC#1,116)
+0000002c 00000004     0                         cellFsRead.stub_entry
+00000030 00000004     4                 C:\usr\local\cell\target\ppu\lib\libfs_stub.a(_sys_fs_0001_23.o) (TOC#1,116)
+00000030 00000004     0                         cellFsOpen.stub_entry
+00000034 00000004     4                 C:\usr\local\cell\target\ppu\lib\libfs_stub.a(_sys_fs_0001_40.o) (TOC#1,116)
+00000034 00000004     0                         cellFsLseek.stub_entry
+00000038 00000004     4                 C:\usr\local\cell\target\ppu\lib\libfs_stub.a(_sys_fs_0001_54.o) (TOC#1,116)
+00000038 00000004     0                         cellFsWrite.stub_entry
+0000003c 00000004     4                 C:\usr\local\cell\target\ppu\lib\libfs_stub.a(_sys_fs_0001_55.o) (TOC#1,116)
+0000003c 00000004     0                         cellFsFstat.stub_entry
+00000040 00000004     4         .data.sceFStub.sys_io
+00000040 00000004     4                 C:\usr\local\cell\target\ppu\lib\libio_stub.a(_sys_io_0001_3.o) (TOC#1,116)
+00000040 00000004     0                         cellPadInit.stub_entry
+00000044 00000004     4                 C:\usr\local\cell\target\ppu\lib\libio_stub.a(_sys_io_0001_27.o) (TOC#1,116)
+00000044 00000004     0                         cellPadGetData.stub_entry
+00000000 000104b8     8 .data
+00000000 00000000     4         .data
+00000000 00000000     4                 C:\Users\kiwi\Desktop\Hen\BO1_MP\BO1_MP\PS3_Debug\account_mp.o (TOC#1,116)
+00000000 000000d0     4                 C:\Users\kiwi\Desktop\Hen\BO1_MP\BO1_MP\PS3_Debug\aimassist_mp.o (TOC#1,116)
+00000010 00000004     0                         nop2
+00000014 00000004     0                         recss
+00000024 00000004     0                         rec
+00000020 00000004     0                         blr
+0000001c 00000004     0                         stdu
+00000030 00000004     0                         BG_GetWeaponVariantDef_f
+0000003c 00000004     0                         BG_GetWeaponDef_f
+00000048 00000004     0                         BulletTrace_f
+00000054 00000004     0                         idk1_f
+00000060 00000004     0                         BG_AdvanceTrace_f
+0000006c 00000004     0                         BG_GetSurfacePenetrationDepth_f
+00000078 00000004     0                         Trace_GetEntityHitId_f
+00000088 00000004     0                         noooop
+0000009c 00000001     0                         oncerun
+00000094 00000004     0                         CG_PrepFireParamsstr
+0000008c 00000004     0                         CG_SimulateBulletInternalrestr
+000000a8 00000004     0                         CG_GetPredictedPlayerState_f
+000000b4 00000004     0                         BG_GetSpreadForWeapon_f
+000000c0 00000004     0                         BG_seedRandWithGameTime_f
+000000cc 00000004     0                         CG_BulletEndpos_f
+00000000 00000004     0                         shitcunt
+00000004 00000004     0                         shitcunt1
+00000008 00000004     0                         shitcunt2
+0000000c 00000004     0                         shitcunt3
+00000018 00000004     0                         recsss
+00000028 00000008     0                         BG_GetWeaponVariantDef_t
+00000034 00000008     0                         BG_GetWeaponDef_t
+00000040 00000008     0                         BulletTrace_t
+0000004c 00000008     0                         idk1_t
+00000058 00000008     0                         BG_AdvanceTrace_t
+00000064 00000008     0                         BG_GetSurfacePenetrationDepth_t
+00000070 00000008     0                         Trace_GetEntityHitId_t
+0000007c 00000008     0                         DobjClient_t
+00000084 00000004     0                         DobjClient_f
+00000090 00000004     0                         Sys_Millisecondsstr
+00000098 00000004     0                         CL_ReadyToSendPacketstr
+000000a0 00000008     0                         CG_GetPredictedPlayerState_t
+000000ac 00000008     0                         BG_GetSpreadForWeapon_t
+000000b8 00000008     0                         BG_seedRandWithGameTime_t
+000000c4 00000008     0                         CG_BulletEndpos_t
+000000d0 0000ffb4     4                 C:\Users\kiwi\Desktop\Hen\BO1_MP\BO1_MP\PS3_Debug\cheats_mp.o (TOC#1,116)
+000000d0 000000e0     0                         ranks
+00010068 00000019     0                         LS.19.AGGR.CONST._Z4ranki.0
+000001b8 00000004     0                         CG_SetThirdPerson_f
+000001bc 0000fea8     0                         punlocks
+00010064 00000004     0                         punlocks1
+000001b0 00000008     0                         CG_SetThirdPerson_t
+00010084 00000000     4                 C:\Users\kiwi\Desktop\Hen\BO1_MP\BO1_MP\PS3_Debug\console.o (TOC#1,116)
+00010084 000001a4     4                 C:\Users\kiwi\Desktop\Hen\BO1_MP\BO1_MP\PS3_Debug\Functions.o (TOC#1,116)
+0001021c 00000001     0                         IPOffsetFound
+00010220 00000004     0                         IPSetOffset
+00010098 00000004     0                         CG_GameMessage_f
+000100a4 00000004     0                         Cbuf_AddText_f
+000100bc 00000004     0                         WorldPosToScreenPos_f
+000100c8 00000004     0                         CG_LocationalTrace_f
+000100d4 00000004     0                         PlayerCmd_EnableInvulnerability_f
+000100e0 00000004     0                         PlayerCmd_disableinvulnerability_f
+000100ec 00000004     0                         SV_GameSendServerCommand_f
+000100f8 00000004     0                         XShowKeyboardUI_f
+00010110 00000004     0                         Dvar_f
+00010104 00000004     0                         Dvar_GetString_f
+00010128 00000004     0                         Dvarv_f
+0001011c 00000004     0                         Dvar_GetBool_f
+00010134 00000004     0                         Dvar_GetFloat_f
+00010140 00000004     0                         irand_f
+0001014c 00000004     0                         CG_IsEntityFriendlyNotEnemy_f
+00010158 00000004     0                         AimTarget_GetTagPos_f
+00010164 00000004     0                         VectoAngles_f
+00010170 00000004     0                         R_RegisterFont_f
+0001017c 00000004     0                         R_TextWidth_f
+0001008c 00000004     0                         R_GetFontPathFromName
+00010188 00000004     0                         R_TextHeight_f
+00010194 00000004     0                         Sys_Milliseconds
+000101a4 00000001     0                         runoncexxx
+000101b0 00000004     0                         Material_RegisterHandle_f
+000101bc 00000004     0                         CL_DrawTextPhysicalWithEffects_f
+000101c8 00000004     0                         R_AddCmdDrawText_f
+000101d4 00000004     0                         CG_DrawRotatedPic_f
+000101e0 00000004     0                         CL_DrawStretchPicInternal_f
+000101ec 00000004     0                         LiveStats_SetClanTagText_f
+000101f0 00000004     0                         Nop
+000101f4 00000004     0                         Restore32
+000101a0 00000004     0                         Com_Sprint
+000101f8 00000024     0                         RandC
+00010224 00000004     0                         injector::MALLOC
+00010084 00000008     0                         R_GetFontPathFromName_t
+00010090 00000008     0                         CG_GameMessage_t
+0001009c 00000008     0                         Cbuf_AddText_t
+000100a8 00000008     0                         BG_GetAmmoInClip_t
+000100b0 00000004     0                         BG_GetAmmoInClip
+000100b4 00000008     0                         WorldPosToScreenPos_t
+000100c0 00000008     0                         CG_LocationalTrace_t
+000100cc 00000008     0                         PlayerCmd_EnableInvulnerability_t
+000100d8 00000008     0                         PlayerCmd_disableinvulnerability_t
+000100e4 00000008     0                         SV_GameSendServerCommand_t
+000100f0 00000008     0                         XShowKeyboardUI_t
+000100fc 00000008     0                         Dvar_GetString_t
+00010108 00000008     0                         Dvar_t
+00010114 00000008     0                         Dvar_GetBool_t
+00010120 00000008     0                         Dvarv_t
+0001012c 00000008     0                         Dvar_GetFloat_t
+00010138 00000008     0                         irand_t
+00010144 00000008     0                         CG_IsEntityFriendlyNotEnemy_t
+00010150 00000008     0                         AimTarget_GetTagPos_t
+0001015c 00000008     0                         VectoAngles_t
+00010168 00000008     0                         R_RegisterFont_t
+00010174 00000008     0                         R_TextWidth_t
+00010180 00000008     0                         R_TextHeight_t
+0001018c 00000008     0                         Sys_Milliseconds_t
+00010198 00000008     0                         Com_Sprint_t
+000101a8 00000008     0                         Material_RegisterHandle_t
+000101b4 00000008     0                         CL_DrawTextPhysicalWithEffects_t
+000101c0 00000008     0                         R_AddCmdDrawText_t
+000101cc 00000008     0                         CG_DrawRotatedPic_t
+000101d8 00000008     0                         CL_DrawStretchPicInternal_t
+000101e4 00000008     0                         LiveStats_SetClanTagText_t
+00010228 00000000     4                 C:\Users\kiwi\Desktop\Hen\BO1_MP\BO1_MP\PS3_Debug\hook.o (TOC#1,116)
+00010228 000000e4     4                 C:\Users\kiwi\Desktop\Hen\BO1_MP\BO1_MP\PS3_Debug\menu.o (TOC#1,116)
+00010238 00000010     0                         aimtypes
+00010228 00000010     0                         aimtypesDec
+0001025c 00000014     0                         tagtypes
+00010248 00000014     0                         tagtypesDec
+00010278 00000008     0                         keytypes
+00010270 00000008     0                         keytypesDec
+00010280 00000018     0                         bound_type
+00010298 00000018     0                         bound_typedec
+000102b0 00000010     0                         snap_type
+000102c0 00000010     0                         snap_typedec
+000102dc 00000004     0                         CG_CycleWeapon_f
+000102e8 00000004     0                         SND_Play_f
+000102f4 00000004     0                         UI_SafeTranslateString_f
+00010300 00000004     0                         SL_ConvertToString_f
+00010304 00000004     0                         MenuW
+00010308 00000001     0                         runonlyonce
+000102d0 00000004     0                         floatBetweenZeroAndOne
+000102d4 00000008     0                         CG_CycleWeapon_t
+000102e0 00000008     0                         SND_Play_t
+000102ec 00000008     0                         UI_SafeTranslateString_t
+000102f8 00000008     0                         SL_ConvertToString_t
+00010309 00000001     0                         onceonly
+0001030c 000000d4     4                 C:\Users\kiwi\Desktop\Hen\BO1_MP\BO1_MP\PS3_Debug\prx.o (TOC#1,116)
+000103dc 00000004     0                         [local to prx_cpp]::Dialog::msgdialog_mode
+00010318 00000004     0                         R_AllocShaderConstantSet_f
+00010324 00000004     0                         R_SetShaderConstantSetValueW_f
+0001030c 00000004     0                         local
+00010350 00000001     0                         runoncegfg
+0001032c 00000010     0                         Skycolora
+0001033c 00000010     0                         Skycolorb
+0001034c 00000004     0                         Skycolorc
+00010360 00000020     0                         SNames
+0001035c 00000004     0                         GScr_AllocString_f
+000103d8 00000004     0                         Detour::HookSection
+000103d0 00000002     0                         jmp
+00010380 00000004     0                         nop
+00010384 00000004     0                         Menu_PaintAll_a
+000103bc 00000004     0                         CG_Player_a
+0001038c 00000004     0                         CL_SendCmd_a
+00010388 00000004     0                         CL_WritePacket_a
+00010390 00000004     0                         SND_EndFrame_a
+00010394 00000004     0                         R_AddDObjToScene_a
+00010398 00000004     0                         _sys_io_cellPadGetData_a
+0001039c 00000004     0                         CG_SetupWeaponCamoRender_a
+000103a0 00000004     0                         CG_RelativeTeamColor_a
+000103a4 00000004     0                         CL_ConsolePrint_a
+000103a8 00000004     0                         Com_Error_a
+000103b4 00000004     0                         BG_UnlockablesGetUsedAllocation_a
+000103c8 00000004     0                         CG_FireWeapon_a
+000103ac 00000004     0                         LUI_LuaCall_DrawRectangle_a
+00010310 00000008     0                         R_AllocShaderConstantSet_t
+0001031c 00000008     0                         R_SetShaderConstantSetValueW_t
+00010328 00000004     0                         NOPE
+00010354 00000008     0                         GScr_AllocString_t
+000103b0 00000004     0                         BG_CalculateWeaponMovement_a
+000103b8 00000004     0                         BG_SetAmmoInClip_a
+000103c0 00000004     0                         BG_GetAmmoInClip_a
+000103c4 00000004     0                         R_DrawIndexedPrimitive_a
+000103cc 00000004     0                         HandleAssets_a
+000103d2 00000004     0                         lir3
+000103e0 00000000     4                 C:\Users\kiwi\Desktop\Hen\BO1_MP\BO1_MP\PS3_Debug\stdio_fix.o (TOC#1,116)
+000103e0 00000000     4                 C:\Users\kiwi\Desktop\Hen\BO1_MP\BO1_MP\PS3_Debug\tickshot_mp.o (TOC#1,116)
+000103e0 0000006c     4                 C:\Users\kiwi\Desktop\Hen\BO1_MP\BO1_MP\PS3_Debug\visuals_mp.o (TOC#1,116)
+000103e8 00000004     0                         CG_IsClientInOurParty_f
+000103f4 00000004     0                         CG_DrawOverheadNames_f
+00010400 00000004     0                         CG_DrawWarningPointer_f
+0001040c 00000004     0                         CG_Vehicle_GetVehicleDef_f
+00010418 00000004     0                         CG_CompassCalcDimensions_f
+00010424 00000004     0                         R_AddCmdDrawStretchPicRotateSTInternal_f
+00010430 00000004     0                         ScrPlace_ApplyRect_f
+0001043c 00000004     0                         Com_SessionMode_IsMode_f
+000103e0 00000008     0                         CG_IsClientInOurParty_t
+000103ec 00000008     0                         CG_DrawOverheadNames_t
+000103f8 00000008     0                         CG_DrawWarningPointer_t
+00010404 00000008     0                         CG_Vehicle_GetVehicleDef_t
+00010410 00000008     0                         CG_CompassCalcDimensions_t
+0001041c 00000008     0                         R_AddCmdDrawStretchPicRotateSTInternal_t
+00010428 00000008     0                         ScrPlace_ApplyRect_t
+00010434 00000008     0                         Com_SessionMode_IsMode_t
+00010440 00000008     0                         SL_GetString_t
+00010448 00000004     0                         SL_GetString_f
+0001044c 00000000     1                 C:\usr\local\cell\target\ppu\lib\libc.a(memcpy.o) (TOC#1,116)
+0001044c 00000000     1                 C:\usr\local\cell\target\ppu\lib\libc.a(strlen.o) (TOC#1,116)
+0001044c 00000000     1                 C:\usr\local\cell\target\ppu\lib\libc.a(strstr.o) (TOC#1,116)
+0001044c 00000000     1                 C:\usr\local\cell\target\ppu\lib\libc.a(strchr.o) (TOC#1,116)
+0001044c 00000000     1                 C:\usr\local\cell\target\ppu\lib\libc.a(strcmp.o) (TOC#1,116)
+0001044c 00000000     1                 C:\usr\local\cell\target\ppu\lib\libc.a(strcpy.o) (TOC#1,116)
+0001044c 00000000     1                 C:\usr\local\cell\target\ppu\lib\libc.a(memset.o) (TOC#1,116)
+0001044c 00000000     1                 C:\usr\local\cell\target\ppu\lib\libm.a(floorf.o) (TOC#1,116)
+0001044c 00000000     1                 C:\usr\local\cell\target\ppu\lib\libm.a(xfdint.o) (TOC#1,116)
+0001044c 00000000     1                 C:\usr\local\cell\target\ppu\lib\libm.a(f_powf.o) (TOC#1,116)
+0001044c 00000000     1                 C:\usr\local\cell\target\ppu\lib\libm.a(f_atan2f.o) (TOC#1,116)
+0001044c 00000000     1                 C:\usr\local\cell\target\ppu\lib\libm.a(xfatan.o) (TOC#1,116)
+0001044c 00000000     1                 C:\usr\local\cell\target\ppu\lib\libm.a(xfdtest.o) (TOC#1,116)
+0001044c 00000000     1                 C:\usr\local\cell\target\ppu\lib\libm.a(f_log2f.o) (TOC#1,116)
+0001044c 00000000     1                 C:\usr\local\cell\target\ppu\lib\libm.a(f_exp2f.o) (TOC#1,116)
+0001044c 00000000     1                 C:\usr\local\cell\target\ppu\lib\libio_stub.a(_sys_io_0001_3.o) (TOC#1,116)
+0001044c 00000000     1                 C:\usr\local\cell\target\ppu\lib\libio_stub.a(_sys_io_0001_27.o) (TOC#1,116)
+0001044c 00000000     1                 C:\usr\local\cell\target\ppu\lib\libio_stub.a(_sys_io_0001_head.o) (TOC#1,116)
+0001044c 00000000     1                 C:\usr\local\cell\target\ppu\lib\liblv2_stub.a(_sysPrxForUser_0001_16.o) (TOC#1,116)
+0001044c 00000000     1                 C:\usr\local\cell\target\ppu\lib\liblv2_stub.a(_sysPrxForUser_0001_44.o) (TOC#1,116)
+0001044c 00000000     1                 C:\usr\local\cell\target\ppu\lib\liblv2_stub.a(_sysPrxForUser_0001_67.o) (TOC#1,116)
+0001044c 00000000     1                 C:\usr\local\cell\target\ppu\lib\liblv2_stub.a(_sysPrxForUser_0001_68.o) (TOC#1,116)
+0001044c 00000000     1                 C:\usr\local\cell\target\ppu\lib\liblv2_stub.a(_sysPrxForUser_0001_71.o) (TOC#1,116)
+0001044c 00000000     1                 C:\usr\local\cell\target\ppu\lib\liblv2_stub.a(_sysPrxForUser_0001_90.o) (TOC#1,116)
+0001044c 00000000     1                 C:\usr\local\cell\target\ppu\lib\liblv2_stub.a(_sysPrxForUser_0001_115.o) (TOC#1,116)
+0001044c 00000000     1                 C:\usr\local\cell\target\ppu\lib\liblv2_stub.a(_sysPrxForUser_0001_head.o) (TOC#1,116)
+0001044c 00000000     1                 C:\usr\local\cell\target\ppu\lib\libsysutil_stub.a(_cellSysutil_0001_23.o) (TOC#1,116)
+0001044c 00000000     1                 C:\usr\local\cell\target\ppu\lib\libsysutil_stub.a(_cellSysutil_0001_79.o) (TOC#1,116)
+0001044c 00000000     1                 C:\usr\local\cell\target\ppu\lib\libsysutil_stub.a(_cellSysutil_0001_head.o) (TOC#1,116)
+0001044c 00000000     1                 C:\usr\local\cell\target\ppu\lib\libnetctl_stub.a(_cellNetCtl_0001_7.o) (TOC#1,116)
+0001044c 00000000     1                 C:\usr\local\cell\target\ppu\lib\libnetctl_stub.a(_cellNetCtl_0001_head.o) (TOC#1,116)
+0001044c 00000000     1                 C:\usr\local\cell\target\ppu\lib\libfs_stub.a(_sys_fs_0001_11.o) (TOC#1,116)
+0001044c 00000000     1                 C:\usr\local\cell\target\ppu\lib\libfs_stub.a(_sys_fs_0001_19.o) (TOC#1,116)
+0001044c 00000000     1                 C:\usr\local\cell\target\ppu\lib\libfs_stub.a(_sys_fs_0001_23.o) (TOC#1,116)
+0001044c 00000000     1                 C:\usr\local\cell\target\ppu\lib\libfs_stub.a(_sys_fs_0001_40.o) (TOC#1,116)
+0001044c 00000000     1                 C:\usr\local\cell\target\ppu\lib\libfs_stub.a(_sys_fs_0001_54.o) (TOC#1,116)
+0001044c 00000000     1                 C:\usr\local\cell\target\ppu\lib\libfs_stub.a(_sys_fs_0001_55.o) (TOC#1,116)
+0001044c 00000000     1                 C:\usr\local\cell\target\ppu\lib\libfs_stub.a(_sys_fs_0001_head.o) (TOC#1,116)
+00010450 00000068     8                 C:\usr\local\cell\target\ppu\lib\libc.a(xfvalues.o) (TOC#1,116)
+00010450 00000010     0                         _FDenorm
+00010460 00000010     0                         _FEps
+00010470 00000010     0                         _FInf
+00010480 00000010     0                         _FNan
+00010490 00000010     0                         _FSnan
+000104a0 00000010     0                         _FRteps
+000104b0 00000004     0                         _FXbig
+00000000 00000000     1 .data1
+00000000 00000000     1 .tdata
+00000000 00000000     1 .spu_image_writable
+00000000 00000000     1 .rsx_image
+00000000 00000000     1 .tbss
+00000000 00000000     1 .eh_frame
+00000000 00000000     1 .gcc_except_table
+00000000 00000000     1 .toc1
+00000000 00000ee8     8 .opd
+00000000 00000000     8         .opd
+00000000 00000000     8                 C:\Users\kiwi\Desktop\Hen\BO1_MP\BO1_MP\PS3_Debug\account_mp.o (TOC#1,116)
+00000000 00000268     8                 C:\Users\kiwi\Desktop\Hen\BO1_MP\BO1_MP\PS3_Debug\aimassist_mp.o (TOC#1,116)
+00000260 00000008     0                         __sti___16_aimassist_mp_cpp_shitcunt
+00000000 00000008     0                         noshit()
+00000008 00000008     0                         enable_aimbot(bool*)
+00000010 00000008     0                         enable_cancelreload(bool*)
+00000018 00000008     0                         aim_type(int)
+00000020 00000008     0                         tag_type(int)
+00000028 00000008     0                         key_type(int)
+00000030 00000008     0                         enable_visible(bool*)
+00000038 00000008     0                         enable_autowall(bool*)
+00000040 00000008     0                         enable_aim(bool*)
+00000048 00000008     0                         enable_antiaim(bool*)
+00000050 00000008     0                         enable_spinbot(bool*)
+00000058 00000008     0                         enable_reversebot(bool*)
+00000060 00000008     0                         enable_lockup(bool*)
+00000068 00000008     0                         enable_nospread(bool*)
+00000070 00000008     0                         enable_noflinch(bool*)
+00000078 00000008     0                         enable_norec(bool*)
+00000080 00000008     0                         enable_nosway(bool*)
+00000088 00000008     0                         enable_nobob(bool*)
+00000090 00000008     0                         enable_aimatfeet(bool*)
+00000098 00000008     0                         enable_autobone(bool*)
+000000a0 00000008     0                         enable_autoshoot(bool*)
+000000a8 00000008     0                         slide_prediction(float)
+000000b0 00000008     0                         spin_scale(float)
+000000b8 00000008     0                         pcorrectiion_scale(float)
+000000c0 00000008     0                         pitch_scale(float)
+000000c8 00000008     0                         roll_scale(float)
+000000d0 00000008     0                         lag_scale(float)
+000000d8 00000008     0                         enable_ntiaim(bool*)
+000000e0 00000008     0                         enable_hvh(bool*)
+000000e8 00000008     0                         BG_GetWeaponVariantDef(unsigned int)
+000000f0 00000008     0                         BG_GetWeaponDef(int)
+000000f8 00000008     0                         BulletTrace(int, BulletFireParams*, WeaponDef*, centity_s*, BulletTraceResults*, int, bool)
+00000100 00000008     0                         anglevectors(Vector3, Vector3*, Vector3*, Vector3*)
+00000108 00000008     0                         BG_AdvanceTrace(BulletFireParams*, BulletTraceResults*, float)
+00000110 00000008     0                         BG_GetSurfacePenetrationDepth(PenetrateType, int)
+00000118 00000008     0                         Get3dDistance(Vector3, Vector3)
+00000120 00000008     0                         _VectorMA(Vector3, float, Vector3, Vector3)
+00000128 00000008     0                         Vec3DistanceSq(float const*, float const*)
+00000130 00000008     0                         Abs(float const*)
+00000138 00000008     0                         Trace_GetEntityHitId(trace1_t*)
+00000140 00000008     0                         anWallBang(centity_s*, Vector3)
+00000148 00000008     0                         Vec3Distance(Vector3*, Vector3*)
+00000150 00000008     0                         VectorAngles(Vector3&, Vector3&)
+00000158 00000008     0                         Bullet_FirePenetrate(BulletFireParams&, BulletTraceResults&, Vector3)
+00000160 00000008     0                         AimTarget_TargetHasWeapon(centity_s*, int)
+00000168 00000008     0                         AimTarget_TargetHasTag(centity_s*, char const*)
+00000170 00000008     0                         GetDistance(Vector3, Vector3)
+00000178 00000008     0                         autobone(int)
+00000180 00000008     0                         HandleTag(int)
+00000188 00000008     0                         Aim_Direction(int, float)
+00000190 00000008     0                         Aim_DirectionMe(int, float)
+00000198 00000008     0                         BG_GetWeaponHitLocationMultiplier(int, hitLocation_t)
+000001a0 00000008     0                         ShieldTrace(centity_s*, short)
+000001a8 00000008     0                         riotshieldCheck(int)
+000001b0 00000008     0                         AimTarget_IsWallableWithPrediction(int, float)
+000001b8 00000008     0                         AimTarget_IsVisible(int, float)
+000001c0 00000008     0                         Vischeckmp(int)
+000001c8 00000008     0                         Vischeckzm(int)
+000001d0 00000008     0                         ShouldSimulateCheck()
+000001d8 00000008     0                         GetNearestPlayerzm()
+000001e0 00000008     0                         AimingAtEnemyAimbot(int)
+000001e8 00000008     0                         GetNearestPlayermp()
+000001f0 00000008     0                         isButtonDown(int)
+000001f8 00000008     0                         SnapAimbot()
+00000200 00000008     0                         AimTarget_GetTarget()
+00000208 00000008     0                         aimbot()
+00000210 00000008     0                         ClampChar_r(int)
+00000218 00000008     0                         f_cosf
+00000220 00000008     0                         f_sinf
+00000228 00000008     0                         FixMovement(usercmd_s*, float, float, float, float)
+00000230 00000008     0                         NoSpread(usercmd_s*)
+00000238 00000008     0                         pspin(usercmd_s*, usercmd_s*, usercmd_s*)
+00000240 00000008     0                         psilent(usercmd_s*, usercmd_s*)
+00000248 00000008     0                         f_sqrtf
+00000250 00000008     0                         Vector3::Vector3()
+00000258 00000008     0                         color::color()
+00000268 000000c8     8                 C:\Users\kiwi\Desktop\Hen\BO1_MP\BO1_MP\PS3_Debug\cheats_mp.o (TOC#1,116)
+00000328 00000008     0                         __sti___13_cheats_mp_cpp_7d81a1f6
+00000268 00000008     0                         Render_Wallhack(bool*)
+00000270 00000008     0                         Render_Chams(bool*)
+00000278 00000008     0                         rssm(bool*)
+00000280 00000008     0                         slide_fovx(float)
+00000288 00000008     0                         slide_xflags(float)
+00000290 00000008     0                         slide_zoommap(float)
+00000298 00000008     0                         slide_xmap(float)
+000002a0 00000008     0                         slide_ymap(float)
+000002a8 00000008     0                         CG_SetThirdPerson(bool*)
+000002b0 00000008     0                         toggleP(bool*)
+000002b8 00000008     0                         togglePi(bool*)
+000002c0 00000008     0                         toggleconsole(bool*)
+000002c8 00000008     0                         toggleantifreeze(bool*)
+000002d0 00000008     0                         toggleucs(bool*)
+000002d8 00000008     0                         Prrank(int)
+000002e0 00000008     0                         rank(int)
+000002e8 00000008     0                         unlimitedrank(int)
+000002f0 00000008     0                         FXint(int)
+000002f8 00000008     0                         Dvisint(float)
+00000300 00000008     0                         StyleInt(int)
+00000308 00000008     0                         Sint(int)
+00000310 00000008     0                         wint(int)
+00000318 00000008     0                         unlock_all()
+00000320 00000008     0                         color::color()
+00000330 00000058     8                 C:\Users\kiwi\Desktop\Hen\BO1_MP\BO1_MP\PS3_Debug\console.o (TOC#1,116)
+00000380 00000008     0                         __sti___11_console_cpp_console
+00000330 00000008     0                         Console::arrange(int)
+00000338 00000008     0                         Console::draw()
+00000340 00000008     0                         Console::write(char const*, color&&, color&&, color&&, color&&)
+00000348 00000008     0                         Console::getItem(int)
+00000350 00000008     0                         Console::contains(char const*)
+00000358 00000008     0                         Console::isfilled()
+00000360 00000008     0                         Console::clear()
+00000368 00000008     0                         color::color()
+00000370 00000008     0                         consoleitem::consoleitem()
+00000378 00000008     0                         Console::Console()
+00000388 00000380     8                 C:\Users\kiwi\Desktop\Hen\BO1_MP\BO1_MP\PS3_Debug\Functions.o (TOC#1,116)
+00000700 00000008     0                         __sti___13_Functions_cpp_5383d3c9
+00000388 00000008     0                         zombiecheck()
+00000390 00000008     0                         CG_GameMessage(char*)
+00000398 00000008     0                         Cbuf_AddText(char*)
+000003a0 00000008     0                         WorldPosToScreenPos(Vector3, Vector2*)
+000003a8 00000008     0                         CG_LocationalTrace(trace_ts*, Vector3*, Vector3*, int, int, bool, col_context_t*)
+000003b0 00000008     0                         PlayerCmd_EnableInvulnerability(int)
+000003b8 00000008     0                         PlayerCmd_disableinvulnerability(int)
+000003c0 00000008     0                         TeleportToPower()
+000003c8 00000008     0                         TeleportToPaP()
+000003d0 00000008     0                         XShowKeyboardUI(int, wchar_t const*, wchar_t const*, unsigned int, void (*)(int, wchar_t const*, unsigned int), unsigned int)
+000003d8 00000008     0                         Dvar_GetString(char const*)
+000003e0 00000008     0                         WideCharToMultibyte(wchar_t const*, int, char*)
+000003e8 00000008     0                         CScr_IsAlive(centity_s*)
+000003f0 00000008     0                         PosPrediction(int, Vector3, int, bool)
+000003f8 00000008     0                         USleep(unsigned long long)
+00000400 00000008     0                         AimTarget_IsTargetVisibleWithPrediction(int, float)
+00000408 00000008     0                         Dvar_GetBool(char const*)
+00000410 00000008     0                         Dvar_GetFloat(char const*)
+00000418 00000008     0                         irand_(int, int)
+00000420 00000008     0                         isHostMigrating()
+00000428 00000008     0                         cl_ingame()
+00000430 00000008     0                         CG_IsEntityFriendlyNotEnemy(centity_s*)
+00000438 00000008     0                         AimTarget_GetTagPos(centity_s*, short, Vector3*)
+00000440 00000008     0                         VectorLength2D(Vector3*)
+00000448 00000008     0                         VectoAngles(Vector3, Vector3*)
+00000450 00000008     0                         f_sinf
+00000458 00000008     0                         f_cosf
+00000460 00000008     0                         AnglesToFoward(Vector3, Vector3, float)
+00000468 00000008     0                         EnemyAimingAtMe(int)
+00000470 00000008     0                         R_RegisterFont(char const*, int)
+00000478 00000008     0                         R_TextWidth(char const*, char const*, float)
+00000480 00000008     0                         R_TextHeight(char const*, float)
+00000488 00000008     0                         SmokeColor(bool*)
+00000490 00000008     0                         NightMode(bool*)
+00000498 00000008     0                         SkyColor(bool*)
+000004a0 00000008     0                         SkyRotate(bool*)
+000004a8 00000008     0                         fadeColor(bool*)
+000004b0 00000008     0                         Smokehandle()
+000004b8 00000008     0                         Material_RegisterHandle(char const*, int)
+000004c0 00000008     0                         CL_DrawTextPhysicalWithEffects(char const*, int, int, float, float, float, float, float, color, int, color, Material*, Material*, int, int, int, int)
+000004c8 00000008     0                         CL_DrawTextPhysicalWithEffectsUI(char const*, int, int, float, float, float, float, float, color, int, color, Material*, Material*, int, int, int, int)
+000004d0 00000008     0                         R_AddCmdDrawText(char const*, int, int, float, float, float, float, float, float*, int)
+000004d8 00000008     0                         R_AddCmdDrawTextUI(char const*, int, int, float, float, float, float, float, float*, int)
+000004e0 00000008     0                         CG_DrawRotatedPicUI(float, float, float, float, float, color, char const*, int)
+000004e8 00000008     0                         CG_DrawRotatedPic(float, float, float, float, float, color, char const*, int)
+000004f0 00000008     0                         CL_DrawStretchPicInternal(float, float, float, float, int, int, float, float, float, float, color, void*)
+000004f8 00000008     0                         CG_DrawRotatedPic1(float, float, float, float, float, color, char const*, int)
+00000500 00000008     0                         CG_DrawRotatedPicp(float, float, float, float, float, color, void*)
+00000508 00000008     0                         DrawShader(float, float, float, float, float, color, char const*, int, alignment)
+00000510 00000008     0                         DrawShaderUI(float, float, float, float, float, color, char const*, int, alignment)
+00000518 00000008     0                         LiveStats_SetClanTagText(int, char*)
+00000520 00000008     0                         ChangeClanTagPreGame(char*)
+00000528 00000008     0                         i32_Name(bool*)
+00000530 00000008     0                         EFlash_Name(bool*)
+00000538 00000008     0                         EAdd_Name(bool*)
+00000540 00000008     0                         EMp(bool*)
+00000548 00000008     0                         Efps(bool*)
+00000550 00000008     0                         Eres(bool*)
+00000558 00000008     0                         Eserverinfo(bool*)
+00000560 00000008     0                         Eping(bool*)
+00000568 00000008     0                         Eents(bool*)
+00000570 00000008     0                         Emaxc(bool*)
+00000578 00000008     0                         Ehost(bool*)
+00000580 00000008     0                         Emap(bool*)
+00000588 00000008     0                         Egame(bool*)
+00000590 00000008     0                         I_ChangeClan()
+00000598 00000008     0                         I_ChangeAdd()
+000005a0 00000008     0                         Flash_name_()
+000005a8 00000008     0                         Add_name_()
+000005b0 00000008     0                         DrawText(char const*, float, float, float, float, char const*, color, alignment, bool)
+000005b8 00000008     0                         DrawTextWithEffects(char const*, float, float, float, color, alignment)
+000005c0 00000008     0                         DrawTextWithEffectsUI(char const*, float, float, float, color, alignment)
+000005c8 00000008     0                         DrawTextUI(char const*, float, float, float, float, char const*, color, alignment)
+000005d0 00000008     0                         DrawShader1(float, float, float, float, float, color, char const*, int, alignment)
+000005d8 00000008     0                         DrawShaderCompass(float, float, float, float, int, int, float, float, float, float, color, char const*, int, alignment)
+000005e0 00000008     0                         DrawShaderP(float, float, float, float, float, color, void*, alignment)
+000005e8 00000008     0                         DrawBorderBox(float, float, float, float, color, color, drawTypes)
+000005f0 00000008     0                         DrawShader(float, float, float, float, color, color, int)
+000005f8 00000008     0                         DrawTextWithBackground(char const*, float, float, float, color, color, alignment)
+00000600 00000008     0                         DrawBorderBox(float, float, float, float, color, color, color)
+00000608 00000008     0                         DrawHaxShader(float, float, float, float, float, color, char const*, int, alignment)
+00000610 00000008     0                         DrawOutline(float, float, float, float, color, int, alignment)
+00000618 00000008     0                         DrawHaxStaticShader(float, float, float, float, float, color, char const*, int, alignment)
+00000620 00000008     0                         DrawStaticOutline(float, float, float, float, color, color, int)
+00000628 00000008     0                         DrawHaxStaticShader1(float, float, float, float, float, color, char const*, int, alignment)
+00000630 00000008     0                         DrawStaticOutline1(float, float, float, float, color, int)
+00000638 00000008     0                         DrawTextWithBackground_UI(char const*, float, float, float, color, color, color, alignment)
+00000640 00000008     0                         ChangeIP(bool*)
+00000648 00000008     0                         StealName(int)
+00000650 00000008     0                         closedpartybypass(bool)
+00000658 00000008     0                         ReadAsset(char const*, void*, unsigned int)
+00000660 00000008     0                         WriteAsset(char const*, void*, unsigned int)
+00000668 00000008     0                         isave()
+00000670 00000008     0                         iload()
+00000678 00000008     0                         loadcamo(char const*)
+00000680 00000008     0                         Load_camo()
+00000688 00000008     0                         getFileSize(char*)
+00000690 00000008     0                         readFile(char*, char*, int)
+00000698 00000008     0                         DB_FindXAssetHeader(XAssetType, char const*, bool, int)
+000006a0 00000008     0                         InjectCustomGSC()
+000006a8 00000008     0                         injector::InjectTolocation(char*)
+000006b0 00000008     0                         injector::SpacetoInject()
+000006b8 00000008     0                         injector::inject(char*)
+000006c0 00000008     0                         Inject_MWA()
+000006c8 00000008     0                         cl_ingame_()
+000006d0 00000008     0                         CG_VisionSetStartLerp_To(int, visionSetMode_t, visionSetLerpStyle_t, char const*, int)
+000006d8 00000008     0                         CScr_VisionSetNaked()
+000006e0 00000008     0                         f_sqrtf
+000006e8 00000008     0                         f_floorf
+000006f0 00000008     0                         color::color(float, float, float, float)
+000006f8 00000008     0                         color::color()
+00000708 00000000     8                 C:\Users\kiwi\Desktop\Hen\BO1_MP\BO1_MP\PS3_Debug\hook.o (TOC#1,116)
+00000708 00000290     8                 C:\Users\kiwi\Desktop\Hen\BO1_MP\BO1_MP\PS3_Debug\menu.o (TOC#1,116)
+00000990 00000008     0                         __sti___8_menu_cpp_menu
+00000708 00000008     0                         GetConsoleinfo()
+00000710 00000008     0                         flash(color*)
+00000718 00000008     0                         flash2(color*)
+00000720 00000008     0                         _Buttoninfo()
+00000728 00000008     0                         stringlength(char const*)
+00000730 00000008     0                         local_command_complete(int, wchar_t const*, unsigned int)
+00000738 00000008     0                         Change_Name_complete(int, wchar_t const*, unsigned int)
+00000740 00000008     0                         dokeyboard()
+00000748 00000008     0                         dokeyboard1()
+00000750 00000008     0                         local_command()
+00000758 00000008     0                         ChangeName()
+00000760 00000008     0                         EndGame()
+00000768 00000008     0                         Disconnect()
+00000770 00000008     0                         movement_event()
+00000778 00000008     0                         CG_CycleWeapon(int, int)
+00000780 00000008     0                         Wait(int)
+00000788 00000008     0                         Cancel_Reload()
+00000790 00000008     0                         SND_Play(char const*, int, float)
+00000798 00000008     0                         decrypt(char*, int)
+000007a0 00000008     0                         get_ip_address()
+000007a8 00000008     0                         Ui_interface()
+000007b0 00000008     0                         addTitle(char const*, int)
+000007b8 00000008     0                         addSubmenu(char const*, int)
+000007c0 00000008     0                         addColorSubmenu(char const*, int, int)
+000007c8 00000008     0                         addColormenu(char const*, color)
+000007d0 00000008     0                         addColorSubmenu1(char const*, int, int)
+000007d8 00000008     0                         addOption(char const*)
+000007e0 00000008     0                         addKOption(char const*, void (*)())
+000007e8 00000008     0                         addOption(char const*, void (*)())
+000007f0 00000008     0                         addCOption(char const*, char*, void (*)())
+000007f8 00000008     0                         blah()
+00000800 00000008     0                         addCamoOption(char const*, char const*)
+00000808 00000008     0                         addBar(char const*, float, float, void (*)(float), float*, char*, bool)
+00000810 00000008     0                         addColorBar(char const*, float, float, void (*)(float), char*, float*, bool)
+00000818 00000008     0                         addColorBar1(char const*, float, float, void (*)(float), char*, float*, bool)
+00000820 00000008     0                         addInt1(char const*, int, int, int, void (*)(int), int*, char*, bool)
+00000828 00000008     0                         addInt(char const*, int, int, int, void (*)(int), char*, bool)
+00000830 00000008     0                         addFPS(char const*, float)
+00000838 00000008     0                         addCheck1(char const*, void (*)(bool*), char*, bool*)
+00000840 00000008     0                         addCheck(char const*, void (*)(bool*), char*)
+00000848 00000008     0                         addCheck2(char const*, void (*)(bool*), bool, char*)
+00000850 00000008     0                         addArray(char const*, char const**, unsigned int, void (*)(int), bool)
+00000858 00000008     0                         combo_render_ui()
+00000860 00000008     0                         addCombo(char const*, char const**, int, int, void (*)(int), char const**)
+00000868 00000008     0                         addPlayerSub(char const*, int)
+00000870 00000008     0                         slide_chams_r(float)
+00000878 00000008     0                         slide_chams_g(float)
+00000880 00000008     0                         slide_chams_b(float)
+00000888 00000008     0                         SlideRed(float)
+00000890 00000008     0                         SlideGreen(float)
+00000898 00000008     0                         SlideBlue(float)
+000008a0 00000008     0                         SlideRed1(float)
+000008a8 00000008     0                         SlideGreen1(float)
+000008b0 00000008     0                         SlideBlue1(float)
+000008b8 00000008     0                         slide_props(float)
+000008c0 00000008     0                         slide_reflection(float)
+000008c8 00000008     0                         slide_layer3Scroll(float)
+000008d0 00000008     0                         slide_emissive_Amo(float)
+000008d8 00000008     0                         slide_Layer1Scroll(float)
+000008e0 00000008     0                         slide_layer2Scroll(float)
+000008e8 00000008     0                         slide_gloss_Amount(float)
+000008f0 00000008     0                         set_color(int)
+000008f8 00000008     0                         Fmj_scale(float)
+00000900 00000008     0                         Damage_scale(float)
+00000908 00000008     0                         Menusize_scale(float)
+00000910 00000008     0                         Menufade_scale(float)
+00000918 00000008     0                         enable1(bool*)
+00000920 00000008     0                         SomeCamo_InfectionShit()
+00000928 00000008     0                         SignIn()
+00000930 00000008     0                         cheats_render()
+00000938 00000008     0                         enableresettheme()
+00000940 00000008     0                         enableresetweaponized()
+00000948 00000008     0                         MoveUp()
+00000950 00000008     0                         MoveDown()
+00000958 00000008     0                         MoveLeft()
+00000960 00000008     0                         MoveRight()
+00000968 00000008     0                         RenderMenu()
+00000970 00000008     0                         HandleMenu()
+00000978 00000008     0                         f_sqrtf
+00000980 00000008     0                         color::color()
+00000988 00000008     0                         menudata_s::menudata_s()
+00000998 000001b0     8                 C:\Users\kiwi\Desktop\Hen\BO1_MP\BO1_MP\PS3_Debug\prx.o (TOC#1,116)
+00000b30 00000008     0                         [local to prx_cpp]::Dialog::cb_dialogText1(int, void*)
+00000b38 00000008     0                         [local to prx_cpp]::Dialog::cb_dialogText2(int, void*)
+00000b18 00000008     0                         __std___7_prx_cpp_local
+00000b40 00000008     0                         __sti___7_prx_cpp_local
+00000998 00000008     0                         WriteHenMem(unsigned long long, void*, unsigned int)
+000009a0 00000008     0                         Detour::Restore()
+000009a8 00000008     0                         operator delete[](void*)
+000009b0 00000008     0                         Detour::~Detour()
+000009b8 00000008     0                         ReadHenMem(unsigned long long, void*, unsigned int)
+000009c0 00000008     0                         DetourFunction(int, int, int)
+000009c8 00000008     0                         GetLocalUi(int)
+000009d0 00000008     0                         drawallui()
+000009d8 00000008     0                         CScr_GetInKillcam(cg_s*)
+000009e0 00000008     0                         R_AllocShaderConstantSet(ShaderConstantSet*, char const*)
+000009e8 00000008     0                         R_SetShaderConstantSetValueW(ShaderConstantSet*, int, float)
+000009f0 00000008     0                         R_SetShaderConstantSetValue(ShaderConstantSet*, int, float, float, float, float)
+000009f8 00000008     0                         CG_SetWeaponMMSConstants(int, ShaderConstantSet*)
+00000a00 00000008     0                         CG_RelativeTeamColor(int, Vector4*, int)
+00000a08 00000008     0                         R_UnmapShaderConstantSet(ShaderConstantSet*, int)
+00000a10 00000008     0                         R_MapShaderConstantSet(ShaderConstantSet*, int, char const*)
+00000a18 00000008     0                         R_AddDObjToScene(DObj*, cpose_t*, unsigned int, unsigned int, Vector3*, float const*, float const*, int, int, ShaderConstantSet*, float, float)
+00000a20 00000008     0                         CG_SetupWeaponCamoRender(int, float*, WeaponDobjInfo*, unsigned int, WeaponDobjInfo*, int*)
+00000a28 00000008     0                         BG_PlayerAnimation(int, int*, int*, Vector3, Vector3)
+00000a30 00000008     0                         antifreezee()
+00000a38 00000008     0                         Memcp_(void*, void const*, unsigned int)
+00000a40 00000008     0                         Menu_PaintAll(int, UiContext*)
+00000a48 00000008     0                         CL_SendCmd(int)
+00000a50 00000008     0                         CL_WritePacket(int)
+00000a58 00000008     0                         ReLoadModule()
+00000a60 00000008     0                         _sys_io_cellPadGetData(unsigned int, CellPadData*)
+00000a68 00000008     0                         precacheAssets()
+00000a70 00000008     0                         Dialog::Show(char*)
+00000a78 00000008     0                         inii()
+00000a80 00000008     0                         R_EndFrame()
+00000a88 00000008     0                         BG_CalculateWeaponMovement(weaponState_t*, Vector3*, Vector3*)
+00000a90 00000008     0                         CL_ConsolePrint(int, int, char const*, int, int, int)
+00000a98 00000008     0                         Com_Error(int, char const*, char*)
+00000aa0 00000008     0                         LUI_LuaCall_DrawRectangleH(LUI_Element*, float, float, float, float, float, float, float, float, int, int)
+00000aa8 00000008     0                         BG_UnlockablesGetUsedAllocationH(int*, loadoutClass_t)
+00000ab0 00000008     0                         CG_FireWeaponH(int, centity_t*, int, int, unsigned short, Weapon, playerState_s*, bool)
+00000ab8 00000008     0                         CG_Player(int, centity_s*)
+00000ac0 00000008     0                         HandleAssets_Hook(int)
+00000ac8 00000008     0                         operator new[](unsigned int)
+00000ad0 00000008     0                         Detour::AllocateStub()
+00000ad8 00000008     0                         Detour::Hook(int, void*)
+00000ae0 00000008     0                         _BO1_MP_prx_entry
+00000ae8 00000008     0                         Detour::Detour()
+00000af0 00000008     0                         Detour::Detour()
+00000af8 00000008     0                         Detour::~Detour()
+00000b00 00000008     0                         Dialog::ShowYESNO(char*)
+00000b08 00000008     0                         Dialog::End()
+00000b10 00000008     0                         BG_PlayerAnimationStub(...)
+00000b20 00000008     0                         Vector3::Vector3(float, float, float)
+00000b28 00000008     0                         color::color()
+00000b48 00000030     8                 C:\Users\kiwi\Desktop\Hen\BO1_MP\BO1_MP\PS3_Debug\stdio_fix.o (TOC#1,116)
+00000b48 00000008     0                         vsnprintf
+00000b50 00000008     0                         vsprintf
+00000b58 00000008     0                         sprintf
+00000b60 00000008     0                         snprintf
+00000b68 00000008     0                         std::console_print(char*)
+00000b70 00000008     0                         printf
+00000b78 00000020     8                 C:\Users\kiwi\Desktop\Hen\BO1_MP\BO1_MP\PS3_Debug\tickshot_mp.o (TOC#1,116)
+00000b78 00000008     0                         BG_GetWeaponName(int, char*, unsigned int)
+00000b80 00000008     0                         AimTarget_GetTargetBounds(centity_s*, float)
+00000b88 00000008     0                         CScr_GetCurrentWeapon(playerstate_s*)
+00000b90 00000008     0                         trickshot_render()
+00000b98 000002d8     8                 C:\Users\kiwi\Desktop\Hen\BO1_MP\BO1_MP\PS3_Debug\visuals_mp.o (TOC#1,116)
+00000e68 00000008     0                         __sti___14_visuals_mp_cpp_ec01b5fe
+00000b98 00000008     0                         draw_allies(bool*)
+00000ba0 00000008     0                         draw_radar(bool*)
+00000ba8 00000008     0                         draw_axis(bool*)
+00000bb0 00000008     0                         set_bound(int)
+00000bb8 00000008     0                         set_snap(int)
+00000bc0 00000008     0                         set_mod(int)
+00000bc8 00000008     0                         set_pen(int)
+00000bd0 00000008     0                         draw_bones(bool*)
+00000bd8 00000008     0                         draw_vangles(bool*)
+00000be0 00000008     0                         draw_myvangles(bool*)
+00000be8 00000008     0                         draw_compass(bool*)
+00000bf0 00000008     0                         draw_radartype(bool*)
+00000bf8 00000008     0                         draw_healthbar(bool*)
+00000c00 00000008     0                         draw_proxwarn(bool*)
+00000c08 00000008     0                         draw_crossh(bool*)
+00000c10 00000008     0                         draw_names(bool*)
+00000c18 00000008     0                         draw_dist(bool*)
+00000c20 00000008     0                         draw_chams(bool*)
+00000c28 00000008     0                         draw_wall(bool*)
+00000c30 00000008     0                         draw_ewall(bool*)
+00000c38 00000008     0                         draw_weapsworld(bool*)
+00000c40 00000008     0                         draw_nadesworld(bool*)
+00000c48 00000008     0                         draw_scavsworld(bool*)
+00000c50 00000008     0                         draw_weappickupidsworld(bool*)
+00000c58 00000008     0                         draw_weappickupidsradar(bool*)
+00000c60 00000008     0                         draw_draw_scavsradar(bool*)
+00000c68 00000008     0                         draw_hellisradar(bool*)
+00000c70 00000008     0                         draw_doggosradar(bool*)
+00000c78 00000008     0                         draw_vehiclesradar(bool*)
+00000c80 00000008     0                         draw_turretsradar(bool*)
+00000c88 00000008     0                         draw_artilleryradar(bool*)
+00000c90 00000008     0                         draw_worldents(bool*)
+00000c98 00000008     0                         draw_nadesradar(bool*)
+00000ca0 00000008     0                         draw_xhscavs(bool*)
+00000ca8 00000008     0                         draw_xhweaps(bool*)
+00000cb0 00000008     0                         draw_targetfinder(bool*)
+00000cb8 00000008     0                         draw_targetinfo(bool*)
+00000cc0 00000008     0                         CG_IsClientInOurParty(int, int)
+00000cc8 00000008     0                         CG_DrawOverheadNames(int, centity_s*, float, int)
+00000cd0 00000008     0                         Prox_in_Circle(Vector3, int, Vector3)
+00000cd8 00000008     0                         f_sinf
+00000ce0 00000008     0                         f_cosf
+00000ce8 00000008     0                         AnglesToForward(Vector3, Vector3, float)
+00000cf0 00000008     0                         DrawLine(float, float, float, float, color)
+00000e58 00000008     0                         f_sqrtf
+00000cf8 00000008     0                         DrawLine_(float, float, float, float, color, int)
+00000d00 00000008     0                         MakeLines(Vector3, float, float, float, float, float, float, color, int)
+00000d08 00000008     0                         DrawVAngles(Vector3, int, color)
+00000d10 00000008     0                         DCrosshair(color)
+00000d18 00000008     0                         HealthBar(cg_s*)
+00000d20 00000008     0                         DrawOutline(float, float, float, float, color, char const*, int)
+00000d28 00000008     0                         DrawBorderBox(Vector2, Vector2, color)
+00000d30 00000008     0                         GetBoxWidth(int)
+00000d38 00000008     0                         GetBoxHeight(int)
+00000d40 00000008     0                         Draw3DTriBox(int, color)
+00000d48 00000008     0                         Draw3DBox(int, color)
+00000d50 00000008     0                         DrawBorderBox(int, Vector2, Vector2, color)
+00000d58 00000008     0                         DrawBoxSolid(int, Vector2, Vector2, color)
+00000d60 00000008     0                         DrawCorneredBox(int, Vector2, Vector2, color)
+00000d68 00000008     0                         HandleESPBox(int, int, Vector2, Vector2, color)
+00000d70 00000008     0                         DrawBone(centity_s*, short, short, color)
+00000d78 00000008     0                         DoAllBones(centity_s*, color)
+00000d80 00000008     0                         CG_DrawWarningPointer(int, color, float, float)
+00000d88 00000008     0                         HandleSnapLines(int, Vector2*, Vector2*, color)
+00000d90 00000008     0                         prox(int)
+00000d98 00000008     0                         dist(int, Vector2, color)
+00000da0 00000008     0                         CScr_IsAlive(int)
+00000da8 00000008     0                         EntityCount()
+00000db0 00000008     0                         EntityVisuals(int)
+00000db8 00000008     0                         CG_Vehicle_GetVehicleDef(centity_s*)
+00000dc0 00000008     0                         _mm_xor_ps(float, float)
+00000dc8 00000008     0                         CG_CompassCalcDimensions(int, cg_sa*, rectDef_s*, rectDef_s*, float*, float*, float*, float*)
+00000dd0 00000008     0                         R_AddCmdDrawStretchPicRotateSTInternal(float, float, float, float, float, float, float, float, float, float, float const*, void*)
+00000dd8 00000008     0                         ScrPlace_ApplyRect(float*, float*, float*, float*, int, int)
+00000de0 00000008     0                         CL_DrawStretchPicRotatedSTInternal(float, float, float, float, int, int, float, float, float, float, float, float, color, void*)
+00000de8 00000008     0                         CG_WorldPosToCompass(CompassType, cg_sa*, rectDef_s*, Vector2*, Vector3*, Vector3*, int, Vector2*)
+00000df0 00000008     0                         CG_CompassDrawPlayerMap(CompassType)
+00000df8 00000008     0                         Com_SessionMode_IsMode(eSessionModes_mode)
+00000e00 00000008     0                         ToggleRadar()
+00000e08 00000008     0                         drawcompass__()
+00000e10 00000008     0                         DrawRadarOutLines()
+00000e18 00000008     0                         AngleNormalize360(float)
+00000e20 00000008     0                         DrawRadarDynamics(int, color, CompassType)
+00000e28 00000008     0                         DrawRadarOutLineszm()
+00000e30 00000008     0                         DrawRadarDynamicszm(int, color)
+00000e38 00000008     0                         DrawTargetScanner(float, float, float, float, color)
+00000e40 00000008     0                         AnglesToForward_(Vector3*, float)
+00000e48 00000008     0                         visual_rendermp()
+00000e50 00000008     0                         visual_renderzm()
+00000e60 00000008     0                         color::color()
+00000e70 00000008     4                 C:\usr\local\cell\target\ppu\lib\libc.a(memcpy.o) (TOC#1,116)
+00000e70 00000008     0                         memcpy
+00000e78 00000008     4                 C:\usr\local\cell\target\ppu\lib\libc.a(strlen.o) (TOC#1,116)
+00000e78 00000008     0                         strlen
+00000e80 00000008     4                 C:\usr\local\cell\target\ppu\lib\libc.a(strstr.o) (TOC#1,116)
+00000e80 00000008     0                         strstr
+00000e88 00000008     4                 C:\usr\local\cell\target\ppu\lib\libc.a(strchr.o) (TOC#1,116)
+00000e88 00000008     0                         strchr
+00000e90 00000008     4                 C:\usr\local\cell\target\ppu\lib\libc.a(strcmp.o) (TOC#1,116)
+00000e90 00000008     0                         strcmp
+00000e98 00000008     4                 C:\usr\local\cell\target\ppu\lib\libc.a(strcpy.o) (TOC#1,116)
+00000e98 00000008     0                         strcpy
+00000ea0 00000008     4                 C:\usr\local\cell\target\ppu\lib\libc.a(memset.o) (TOC#1,116)
+00000ea0 00000008     0                         memset
+00000ea0 00000008     0                         memset_cs
+00000ea8 00000008     4                 C:\usr\local\cell\target\ppu\lib\libm.a(floorf.o) (TOC#1,116)
+00000ea8 00000008     0                         floorf
+00000eb0 00000008     4                 C:\usr\local\cell\target\ppu\lib\libm.a(xfdint.o) (TOC#1,116)
+00000eb0 00000008     0                         _FDint
+00000eb8 00000008     4                 C:\usr\local\cell\target\ppu\lib\libm.a(f_powf.o) (TOC#1,116)
+00000eb8 00000008     0                         f_powf
+00000ec0 00000008     4                 C:\usr\local\cell\target\ppu\lib\libm.a(f_atan2f.o) (TOC#1,116)
+00000ec0 00000008     0                         f_atan2f
+00000ec8 00000008     4                 C:\usr\local\cell\target\ppu\lib\libm.a(xfatan.o) (TOC#1,116)
+00000ec8 00000008     0                         _FAtan
+00000ed0 00000008     4                 C:\usr\local\cell\target\ppu\lib\libm.a(xfdtest.o) (TOC#1,116)
+00000ed0 00000008     0                         _FDtest
+00000ed8 00000008     4                 C:\usr\local\cell\target\ppu\lib\libm.a(f_log2f.o) (TOC#1,116)
+00000ed8 00000008     0                         _f_log2f
+00000ed8 00000008     0                         f_log2f
+00000ee0 00000008     4                 C:\usr\local\cell\target\ppu\lib\libm.a(f_exp2f.o) (TOC#1,116)
+00000ee0 00000008     0                         _f_exp2f
+00000ee0 00000008     0                         f_exp2f
+00000000 00000000     1 .dynamic
+00000000 0000001c     1 .ctors
+00000000 00000004     1         .ctors
+00000000 00000004     1                 C:\Users\kiwi\Desktop\Hen\BO1_MP\BO1_MP\PS3_Debug\aimassist_mp.o (TOC#1,116)
+00000004 00000004     1                 C:\Users\kiwi\Desktop\Hen\BO1_MP\BO1_MP\PS3_Debug\cheats_mp.o (TOC#1,116)
+00000008 00000004     1                 C:\Users\kiwi\Desktop\Hen\BO1_MP\BO1_MP\PS3_Debug\console.o (TOC#1,116)
+0000000c 00000004     1                 C:\Users\kiwi\Desktop\Hen\BO1_MP\BO1_MP\PS3_Debug\Functions.o (TOC#1,116)
+00000010 00000004     1                 C:\Users\kiwi\Desktop\Hen\BO1_MP\BO1_MP\PS3_Debug\menu.o (TOC#1,116)
+00000014 00000004     1                 C:\Users\kiwi\Desktop\Hen\BO1_MP\BO1_MP\PS3_Debug\prx.o (TOC#1,116)
+00000018 00000004     1                 C:\Users\kiwi\Desktop\Hen\BO1_MP\BO1_MP\PS3_Debug\visuals_mp.o (TOC#1,116)
+00000000 00000004     1 .dtors
+00000000 00000004     1         .dtors
+00000000 00000004     1                 C:\Users\kiwi\Desktop\Hen\BO1_MP\BO1_MP\PS3_Debug\prx.o (TOC#1,116)
+00000000 00000000     1 .jcr
+00000000 00000000     1 .got
+00000000 00000074     4 .toc
+00000000 00000000     1         .toc
+00000000 00000000     1                 C:\Users\kiwi\Desktop\Hen\BO1_MP\BO1_MP\PS3_Debug\account_mp.o (TOC#1,116)
+00000000 00000000     1                 C:\Users\kiwi\Desktop\Hen\BO1_MP\BO1_MP\PS3_Debug\aimassist_mp.o (TOC#1,116)
+00000000 00000000     1                 C:\Users\kiwi\Desktop\Hen\BO1_MP\BO1_MP\PS3_Debug\cheats_mp.o (TOC#1,116)
+00000000 00000000     1                 C:\Users\kiwi\Desktop\Hen\BO1_MP\BO1_MP\PS3_Debug\console.o (TOC#1,116)
+00000000 00000000     1                 C:\Users\kiwi\Desktop\Hen\BO1_MP\BO1_MP\PS3_Debug\Functions.o (TOC#1,116)
+00000000 00000000     1                 C:\Users\kiwi\Desktop\Hen\BO1_MP\BO1_MP\PS3_Debug\hook.o (TOC#1,116)
+00000000 00000000     1                 C:\Users\kiwi\Desktop\Hen\BO1_MP\BO1_MP\PS3_Debug\menu.o (TOC#1,116)
+00000000 00000000     1                 C:\Users\kiwi\Desktop\Hen\BO1_MP\BO1_MP\PS3_Debug\prx.o (TOC#1,116)
+00000000 00000000     1                 C:\Users\kiwi\Desktop\Hen\BO1_MP\BO1_MP\PS3_Debug\stdio_fix.o (TOC#1,116)
+00000000 00000000     1                 C:\Users\kiwi\Desktop\Hen\BO1_MP\BO1_MP\PS3_Debug\tickshot_mp.o (TOC#1,116)
+00000000 00000000     1                 C:\Users\kiwi\Desktop\Hen\BO1_MP\BO1_MP\PS3_Debug\visuals_mp.o (TOC#1,116)
+00000000 00000000     1                 C:\usr\local\cell\target\ppu\lib\libc.a(memcpy.o) (TOC#1,116)
+00000000 00000000     1                 C:\usr\local\cell\target\ppu\lib\libc.a(strlen.o) (TOC#1,116)
+00000000 00000000     1                 C:\usr\local\cell\target\ppu\lib\libc.a(strstr.o) (TOC#1,116)
+00000000 00000000     1                 C:\usr\local\cell\target\ppu\lib\libc.a(strchr.o) (TOC#1,116)
+00000000 00000000     1                 C:\usr\local\cell\target\ppu\lib\libc.a(strcmp.o) (TOC#1,116)
+00000000 00000000     1                 C:\usr\local\cell\target\ppu\lib\libc.a(strcpy.o) (TOC#1,116)
+00000000 00000004     4                 C:\usr\local\cell\target\ppu\lib\libm.a(floorf.o) (TOC#1,116)
+00000004 00000004     4                 C:\usr\local\cell\target\ppu\lib\libm.a(xfdint.o) (TOC#1,116)
+00000008 00000000     1                 C:\usr\local\cell\target\ppu\lib\libm.a(f_powf.o) (TOC#1,116)
+00000008 00000008     4                 C:\usr\local\cell\target\ppu\lib\libm.a(f_atan2f.o) (TOC#1,116)
+00000010 00000020     4                 C:\usr\local\cell\target\ppu\lib\libm.a(xfatan.o) (TOC#1,116)
+00000030 00000000     1                 C:\usr\local\cell\target\ppu\lib\libm.a(xfdtest.o) (TOC#1,116)
+00000030 00000024     4                 C:\usr\local\cell\target\ppu\lib\libm.a(f_log2f.o) (TOC#1,116)
+00000054 00000020     4                 C:\usr\local\cell\target\ppu\lib\libm.a(f_exp2f.o) (TOC#1,116)
+00000074 00000000     1                 C:\usr\local\cell\target\ppu\lib\libc.a(xfvalues.o) (TOC#1,116)
+00000000 00000000     1 .tocbss
+00000000 00000000     1 .toc.sceStub
+00000000 00000000     1 .toc.sceStub
+00000000 00000000     1 .toc.tls
+00000000 00000000     1 .sdata
+00000000 00000000     1 .dynsbss
+00000000 00000000     1 .sbss
+00000000 00000000     1 .scommon
+00000000 00000000     1 .plt
+00000000 00000000     1 .dynbss
+00000000 001ae5ac     8 .bss
+00000000 00000014     4         .bss
+00000000 00000014     4                 C:\Users\kiwi\Desktop\Hen\BO1_MP\BO1_MP\PS3_Debug\account_mp.o (TOC#1,116)
+00000000 00000014     0                         stats
+00000018 00000630     8                 C:\Users\kiwi\Desktop\Hen\BO1_MP\BO1_MP\PS3_Debug\aimassist_mp.o (TOC#1,116)
+00000630 00000008     0                         LS.89.LV.3
+00000638 0000000c     0                         LS.89.OldAngles
+00000644 00000001     0                         LS.89.ResetAngles
+00000018 00000010     0                         dflash
+00000028 00000010     0                         dflash1
+00000038 0000055c     0                         bot
+0000059c 00000048     0                         icountre
+000005f2 0000000e     0                         AimBoneIndex
+00000600 0000000e     0                         SldBoneIndex
+00000610 00000001     0                         btrighoot
+00000611 00000001     0                         next_0
+00000620 00000004     0                         spinY
+00000614 0000000c     0                         viewAngles
+00000594 00000001     0                         awbypass
+00000595 00000001     0                         something
+00000598 00000004     0                         counter
+000005e4 0000000e     0                         EspBoneIndex
+0000060e 00000002     0                         LaserBoneIndex
+00000624 00000004     0                         spinR
+00000628 00000004     0                         spinP
+0000062c 00000001     0                         ssw
+00000648 00000020     8                 C:\Users\kiwi\Desktop\Hen\BO1_MP\BO1_MP\PS3_Debug\cheats_mp.o (TOC#1,116)
+00000648 00000010     0                         dflash
+00000658 00000010     0                         dflash1
+00000668 000006d0     8                 C:\Users\kiwi\Desktop\Hen\BO1_MP\BO1_MP\PS3_Debug\console.o (TOC#1,116)
+00000668 00000010     0                         dflash
+00000678 00000010     0                         dflash1
+00000688 000006b0     0                         console
+00000d38 00020068     8                 C:\Users\kiwi\Desktop\Hen\BO1_MP\BO1_MP\PS3_Debug\Functions.o (TOC#1,116)
+00020d84 00000004     0                         LS.55.itick
+00020d88 00000004     0                         LS.55.iwait
+00020d8c 00000004     0                         LS.87.itick
+00020d90 00000004     0                         LS.87.iwait
+00020d94 00000004     0                         LS.90.itick
+00020d98 00000004     0                         LS.90.iwait
+00000d80 00020000     0                         dump
+00000d7c 00000004     0                         GetMyIPBytes
+00000d38 00000010     0                         dflash
+00000d48 00000010     0                         dflash1
+00000d58 00000010     0                         NavyBlue
+00000d68 00000010     0                         White
+00000d78 00000004     0                         sky_rotate
+00020d80 00000004     0                         injector::ByteLength
+00020da0 00174e28     8                 C:\Users\kiwi\Desktop\Hen\BO1_MP\BO1_MP\PS3_Debug\menu.o (TOC#1,116)
+00195bc0 00000004     0                         LS.28.itick
+00195bc4 00000004     0                         LS.28.iwait
+00020da0 00000010     0                         dflash
+00020db0 00000010     0                         dflash1
+00020dc0 0015d0a8     0                         menu
+0017de6c 00013d48     0                         Mshit
+00191bb8 00000004     0                         pp
+00191bb4 00000001     0                         SLLR
+0017de68 00000004     0                         cur_index_theme
+00191bc8 00000004     0                         i
+00191bcc 00003ff0     0                         InfectionAsset
+00195bbc 00000001     0                         ronece
+00195bbd 00000001     0                         runonce1
+00195bbe 00000001     0                         resettheme
+00191bc0 00000004     0                         OfflineAsset
+00191bc4 00000004     0                         OnlineAsset
+00191bbc 00000004     0                         test
+00195bc8 00015970     8                 C:\Users\kiwi\Desktop\Hen\BO1_MP\BO1_MP\PS3_Debug\prx.o (TOC#1,116)
+00195bd0 00000010     0                         dflash
+00195be0 00000010     0                         dflash1
+00195dc4 00000024     0                         R_AddDObjToSceneDetour
+00195e0c 00000024     0                         CG_SetupWeaponCamoRenderDetour
+00195f79 00015581     0                         bott
+001ab508 00000004     0                         zero
+00195d10 00000024     0                         Menu_PaintAllDetour
+001ab50c 00000001     0                         SendPacket
+00195d7c 00000024     0                         CL_SendCmdDetour
+001ab510 00000004     0                         tick
+00195d34 00000024     0                         CL_WritePacketDetour
+00195bf0 00000084     0                         _pdPad
+00195da0 00000024     0                         R_EndFrameDetour
+001ab514 00000001     0                         runonce
+00195e54 00000024     0                         CL_ConsolePrintDetour
+00195e78 00000024     0                         Com_ErrorDetour
+00195ee4 00000024     0                         LUI_LuaCall_DrawRectangleDetour
+00195e9c 00000024     0                         BG_UnlockablesGetUsedAllocationDetour
+00195ec0 00000024     0                         CG_FireWeaponDetour
+00195d58 00000024     0                         CG_PlayerDetour
+00195f08 00000024     0                         HandleAssetsDetour
+001ab530 00000004     0                         Detour::HookCount
+00195c74 00000078     0                         pdPadBtn
+00195de8 00000024     0                         _sys_io_cellPadGetDataDetour
+00195e30 00000024     0                         CG_RelativeTeamColorDetour
+001ab534 00000001     0                         Dialog::Finished
+001ab535 00000001     0                         Dialog::YESNO
+00195f50 00000024     0                         R_AllocShaderConstantSetSDetour
+00195f2c 00000024     0                         CG_RealtiveTeamColorDetour
+00195cec 00000024     0                         R_DrawIndexedPrimitiveDetour
+001ab524 0000000c     0                         zero_
+00195bc8 00000004     0                         PRX_TOC_ADDRESS
+00195f74 00000004     0                         rotate
+00195f78 00000001     0                         ingame_
+001ab4fc 00000004     0                         camoentrydatables
+001ab500 00000004     0                         camoentrydatablus
+001ab504 00000004     0                         camodata
+001ab518 00000004     0                         export_module
+001ab51c 00000004     0                         info
+001ab520 00000004     0                         res
+001ab538 00003070     8                 C:\Users\kiwi\Desktop\Hen\BO1_MP\BO1_MP\PS3_Debug\visuals_mp.o (TOC#1,116)
+001ab538 00000010     0                         dflash
+001ab548 00000010     0                         dflash1
+001ad578 00000018     0                         parentRect
+001ad590 00000018     0                         rect
+001ad568 00000008     0                         RadarSize
+001ad560 00000008     0                         RadarCenter_
+001ad570 00000008     0                         Center_
+001ad5a8 00000800     0                         ballies
+001adda8 00000800     0                         baxis
+001ab558 00000008     0                         cCenter
+001ab560 00002000     0                         num
+001ae5a8 00000000     1                 C:\usr\local\cell\target\ppu\lib\libc.a(memcpy.o) (TOC#1,116)
+001ae5a8 00000000     1                 C:\usr\local\cell\target\ppu\lib\libc.a(strlen.o) (TOC#1,116)
+001ae5a8 00000000     1                 C:\usr\local\cell\target\ppu\lib\libc.a(strstr.o) (TOC#1,116)
+001ae5a8 00000000     1                 C:\usr\local\cell\target\ppu\lib\libc.a(strchr.o) (TOC#1,116)
+001ae5a8 00000000     1                 C:\usr\local\cell\target\ppu\lib\libc.a(strcmp.o) (TOC#1,116)
+001ae5a8 00000000     1                 C:\usr\local\cell\target\ppu\lib\libc.a(strcpy.o) (TOC#1,116)
+001ae5a8 00000000     1                 C:\usr\local\cell\target\ppu\lib\libc.a(memset.o) (TOC#1,116)
+001ae5a8 00000000     1                 C:\usr\local\cell\target\ppu\lib\libm.a(floorf.o) (TOC#1,116)
+001ae5a8 00000000     1                 C:\usr\local\cell\target\ppu\lib\libm.a(xfdint.o) (TOC#1,116)
+001ae5a8 00000000     1                 C:\usr\local\cell\target\ppu\lib\libm.a(f_powf.o) (TOC#1,116)
+001ae5a8 00000000     1                 C:\usr\local\cell\target\ppu\lib\libm.a(f_atan2f.o) (TOC#1,116)
+001ae5a8 00000000     1                 C:\usr\local\cell\target\ppu\lib\libm.a(xfatan.o) (TOC#1,116)
+001ae5a8 00000000     1                 C:\usr\local\cell\target\ppu\lib\libm.a(xfdtest.o) (TOC#1,116)
+001ae5a8 00000000     1                 C:\usr\local\cell\target\ppu\lib\libm.a(f_log2f.o) (TOC#1,116)
+001ae5a8 00000000     1                 C:\usr\local\cell\target\ppu\lib\libm.a(f_exp2f.o) (TOC#1,116)
+001ae5a8 00000000     1                 C:\usr\local\cell\target\ppu\lib\libio_stub.a(_sys_io_0001_3.o) (TOC#1,116)
+001ae5a8 00000000     1                 C:\usr\local\cell\target\ppu\lib\libio_stub.a(_sys_io_0001_27.o) (TOC#1,116)
+001ae5a8 00000000     1                 C:\usr\local\cell\target\ppu\lib\libio_stub.a(_sys_io_0001_head.o) (TOC#1,116)
+001ae5a8 00000000     1                 C:\usr\local\cell\target\ppu\lib\liblv2_stub.a(_sysPrxForUser_0001_16.o) (TOC#1,116)
+001ae5a8 00000000     1                 C:\usr\local\cell\target\ppu\lib\liblv2_stub.a(_sysPrxForUser_0001_44.o) (TOC#1,116)
+001ae5a8 00000000     1                 C:\usr\local\cell\target\ppu\lib\liblv2_stub.a(_sysPrxForUser_0001_67.o) (TOC#1,116)
+001ae5a8 00000000     1                 C:\usr\local\cell\target\ppu\lib\liblv2_stub.a(_sysPrxForUser_0001_68.o) (TOC#1,116)
+001ae5a8 00000000     1                 C:\usr\local\cell\target\ppu\lib\liblv2_stub.a(_sysPrxForUser_0001_71.o) (TOC#1,116)
+001ae5a8 00000000     1                 C:\usr\local\cell\target\ppu\lib\liblv2_stub.a(_sysPrxForUser_0001_90.o) (TOC#1,116)
+001ae5a8 00000000     1                 C:\usr\local\cell\target\ppu\lib\liblv2_stub.a(_sysPrxForUser_0001_115.o) (TOC#1,116)
+001ae5a8 00000000     1                 C:\usr\local\cell\target\ppu\lib\liblv2_stub.a(_sysPrxForUser_0001_head.o) (TOC#1,116)
+001ae5a8 00000000     1                 C:\usr\local\cell\target\ppu\lib\libsysutil_stub.a(_cellSysutil_0001_23.o) (TOC#1,116)
+001ae5a8 00000000     1                 C:\usr\local\cell\target\ppu\lib\libsysutil_stub.a(_cellSysutil_0001_79.o) (TOC#1,116)
+001ae5a8 00000000     1                 C:\usr\local\cell\target\ppu\lib\libsysutil_stub.a(_cellSysutil_0001_head.o) (TOC#1,116)
+001ae5a8 00000000     1                 C:\usr\local\cell\target\ppu\lib\libnetctl_stub.a(_cellNetCtl_0001_7.o) (TOC#1,116)
+001ae5a8 00000000     1                 C:\usr\local\cell\target\ppu\lib\libnetctl_stub.a(_cellNetCtl_0001_head.o) (TOC#1,116)
+001ae5a8 00000000     1                 C:\usr\local\cell\target\ppu\lib\libfs_stub.a(_sys_fs_0001_11.o) (TOC#1,116)
+001ae5a8 00000000     1                 C:\usr\local\cell\target\ppu\lib\libfs_stub.a(_sys_fs_0001_19.o) (TOC#1,116)
+001ae5a8 00000000     1                 C:\usr\local\cell\target\ppu\lib\libfs_stub.a(_sys_fs_0001_23.o) (TOC#1,116)
+001ae5a8 00000000     1                 C:\usr\local\cell\target\ppu\lib\libfs_stub.a(_sys_fs_0001_40.o) (TOC#1,116)
+001ae5a8 00000000     1                 C:\usr\local\cell\target\ppu\lib\libfs_stub.a(_sys_fs_0001_54.o) (TOC#1,116)
+001ae5a8 00000000     1                 C:\usr\local\cell\target\ppu\lib\libfs_stub.a(_sys_fs_0001_55.o) (TOC#1,116)
+001ae5a8 00000000     1                 C:\usr\local\cell\target\ppu\lib\libfs_stub.a(_sys_fs_0001_head.o) (TOC#1,116)
+001ae5a8 00000004     4                 C:\usr\local\cell\target\ppu\lib\libc.a(xfvalues.o) (TOC#1,116)
+001ae5a8 00000004     0                         _FZero
+00000000 00000000     1 .common
+00000000 00000000     1 .stab
+00000000 00000000     1 .stabstr
+00000000 00000000     1 .stab.excl
+00000000 00000000     1 .stab.exclstr
+00000000 00000000     1 .stab.index
+00000000 00000000     1 .stab.indexstr
+00000000 00000000     1 .comment
+00000000 00000000     1 .debug
+00000000 00000000     1 .line
+00000000 00000000     1 .debug_srcinfo
+00000000 00000000     1 .debug_sfnames
+00000000 00000000     1 .debug_aranges
+00000000 00000000     1 .debug_pubnames
+00000000 00000000     1 .debug_info
+00000000 00000000     1 .debug_abbrev
+00000000 00000000     1 .debug_line
+00000000 00000000     1 .debug_frame
+00000000 00000000     1 .debug_str
+00000000 00000000     1 .debug_loc
+00000000 00000000     1 .debug_macinfo
+00000000 00000000     1 .debug_weaknames
+00000000 00000000     1 .debug_funcnames
+00000000 00000000     1 .debug_typenames
+00000000 00000000     1 .debug_varnames
+00000000 00000000     1 .debug_pubtypes
+00000000 00000000     1 .debug_ranges
+00000000 00000110     8 .text.f_cosf
+00000000 00000110     8         .text.f_cosf
+00000000 00000110     8                 C:\Users\kiwi\Desktop\Hen\BO1_MP\BO1_MP\PS3_Debug\aimassist_mp.o (TOC#1,116)
+00000000 00000028     0                         f_cosf$rodata
+00000028 000000e8     0                         .f_cosf
+00000000 00000128     8 .text.f_sinf
+00000000 00000128     8         .text.f_sinf
+00000000 00000128     8                 C:\Users\kiwi\Desktop\Hen\BO1_MP\BO1_MP\PS3_Debug\aimassist_mp.o (TOC#1,116)
+00000000 00000028     0                         f_sinf$rodata
+00000028 00000100     0                         .f_sinf
+00000000 00000008     4 .text.f_sqrtf
+00000000 00000008     4         .text.f_sqrtf
+00000000 00000008     4                 C:\Users\kiwi\Desktop\Hen\BO1_MP\BO1_MP\PS3_Debug\aimassist_mp.o (TOC#1,116)
+00000000 00000008     0                         .f_sqrtf
+00000000 00000014     4 .text._ZN7Vector3C1Ev
+00000000 00000014     4         .text._ZN7Vector3C1Ev
+00000000 00000014     4                 C:\Users\kiwi\Desktop\Hen\BO1_MP\BO1_MP\PS3_Debug\aimassist_mp.o (TOC#1,116)
+00000000 00000014     0                         Vector3::Vector3()
+00000000 00000018     4 .text._ZN5colorC1Ev
+00000000 00000018     4         .text._ZN5colorC1Ev
+00000000 00000018     4                 C:\Users\kiwi\Desktop\Hen\BO1_MP\BO1_MP\PS3_Debug\aimassist_mp.o (TOC#1,116)
+00000000 00000018     0                         color::color()
+00000000 00000048     4 .text._ZN11consoleitemC1Ev
+00000000 00000048     4         .text._ZN11consoleitemC1Ev
+00000000 00000048     4                 C:\Users\kiwi\Desktop\Hen\BO1_MP\BO1_MP\PS3_Debug\console.o (TOC#1,116)
+00000000 00000048     0                         consoleitem::consoleitem()
+00000000 00000080     4 .text._ZN7ConsoleC1Ev
+00000000 00000080     4         .text._ZN7ConsoleC1Ev
+00000000 00000080     4                 C:\Users\kiwi\Desktop\Hen\BO1_MP\BO1_MP\PS3_Debug\console.o (TOC#1,116)
+00000000 00000080     0                         Console::Console()
+00000000 00000084     4 .text.f_floorf
+00000000 00000084     4         .text.f_floorf
+00000000 00000084     4                 C:\Users\kiwi\Desktop\Hen\BO1_MP\BO1_MP\PS3_Debug\Functions.o (TOC#1,116)
+00000000 00000084     0                         .f_floorf
+00000000 00000038     8 .text._ZN5colorC1Effff
+00000000 00000038     8         .text._ZN5colorC1Effff
+00000000 00000038     8                 C:\Users\kiwi\Desktop\Hen\BO1_MP\BO1_MP\PS3_Debug\Functions.o (TOC#1,116)
+00000000 00000004     0                         _ZN5colorC1Effff$rodata
+00000008 00000030     0                         color::color(float, float, float, float)
+00000000 000001a0     4 .text._ZN10menudata_sC1Ev
+00000000 000001a0     4         .text._ZN10menudata_sC1Ev
+00000000 000001a0     4                 C:\Users\kiwi\Desktop\Hen\BO1_MP\BO1_MP\PS3_Debug\menu.o (TOC#1,116)
+00000000 000001a0     0                         menudata_s::menudata_s()
+00000000 00000024     4 .text._ZdaPv
+00000000 00000024     4         .text._ZdaPv
+00000000 00000024     4                 C:\Users\kiwi\Desktop\Hen\BO1_MP\BO1_MP\PS3_Debug\prx.o (TOC#1,116)
+00000000 00000024     0                         operator delete[](void*)
+00000000 00000024     4 .text._Znaj
+00000000 00000024     4         .text._Znaj
+00000000 00000024     4                 C:\Users\kiwi\Desktop\Hen\BO1_MP\BO1_MP\PS3_Debug\prx.o (TOC#1,116)
+00000000 00000024     0                         operator new[](unsigned int)
+00000000 00000010     4 .text._ZN7Vector3C1Efff
+00000000 00000010     4         .text._ZN7Vector3C1Efff
+00000000 00000010     4                 C:\Users\kiwi\Desktop\Hen\BO1_MP\BO1_MP\PS3_Debug\prx.o (TOC#1,116)
+00000000 00000010     0                         Vector3::Vector3(float, float, float)
+00000000 00000010     8 .psp_lib_markimport_
+00000000 00000010     8         .psp_lib_markimport_
+00000000 00000010     8                 C:\Users\kiwi\Desktop\Hen\BO1_MP\BO1_MP\PS3_Debug\prx.o (TOC#1,116)
+00000000 00000020     4 .psp_lib_mark_
+00000000 00000020     4         .psp_lib_mark_
+00000000 00000020     4                 C:\Users\kiwi\Desktop\Hen\BO1_MP\BO1_MP\PS3_Debug\prx.o (TOC#1,116)
+00000000 00000008     0                         __PSPEXP__module_info
+00000008 00000008     0                         __PSPREN__module_info___psp_moduleinfo
+00000010 00000008     0                         __PSPEXP__module_start
+00000018 00000008     0                         __PSPREN__module_start__BO1_MP_prx_entry
+00000000 00000028     8 .sys_proc_param
+00000000 00000028     8         .sys_proc_param
+00000000 00000028     8                 C:\Users\kiwi\Desktop\Hen\BO1_MP\BO1_MP\PS3_Debug\prx.o (TOC#1,116)
+00000000 00000024     0                         __sys_process_param
+00000000 0000027d     1 .sceversion
+00000000 0000000c     1         .sceversion
+00000000 0000000c     1                 C:\usr\local\cell\target\ppu\lib\libc.a(memcpy.o) (TOC#1,116)
+0000000c 0000000c     1                 C:\usr\local\cell\target\ppu\lib\libc.a(strlen.o) (TOC#1,116)
+00000018 0000000c     1                 C:\usr\local\cell\target\ppu\lib\libc.a(strstr.o) (TOC#1,116)
+00000024 0000000c     1                 C:\usr\local\cell\target\ppu\lib\libc.a(strchr.o) (TOC#1,116)
+00000030 0000000c     1                 C:\usr\local\cell\target\ppu\lib\libc.a(strcmp.o) (TOC#1,116)
+0000003c 0000000c     1                 C:\usr\local\cell\target\ppu\lib\libc.a(strcpy.o) (TOC#1,116)
+00000048 0000000c     1                 C:\usr\local\cell\target\ppu\lib\libc.a(memset.o) (TOC#1,116)
+00000054 0000000c     1                 C:\usr\local\cell\target\ppu\lib\libm.a(floorf.o) (TOC#1,116)
+00000060 0000000c     1                 C:\usr\local\cell\target\ppu\lib\libm.a(xfdint.o) (TOC#1,116)
+0000006c 0000000c     1                 C:\usr\local\cell\target\ppu\lib\libm.a(f_powf.o) (TOC#1,116)
+00000078 0000000c     1                 C:\usr\local\cell\target\ppu\lib\libm.a(f_atan2f.o) (TOC#1,116)
+00000084 0000000c     1                 C:\usr\local\cell\target\ppu\lib\libm.a(xfatan.o) (TOC#1,116)
+00000090 0000000c     1                 C:\usr\local\cell\target\ppu\lib\libm.a(xfdtest.o) (TOC#1,116)
+0000009c 0000000c     1                 C:\usr\local\cell\target\ppu\lib\libm.a(f_log2f.o) (TOC#1,116)
+000000a8 0000000c     1                 C:\usr\local\cell\target\ppu\lib\libm.a(f_exp2f.o) (TOC#1,116)
+000000b4 00000012     1                 C:\usr\local\cell\target\ppu\lib\libio_stub.a(_sys_io_0001_3.o) (TOC#1,116)
+000000c6 00000012     1                 C:\usr\local\cell\target\ppu\lib\libio_stub.a(_sys_io_0001_27.o) (TOC#1,116)
+000000d8 00000012     1                 C:\usr\local\cell\target\ppu\lib\libio_stub.a(_sys_io_0001_head.o) (TOC#1,116)
+000000ea 00000013     1                 C:\usr\local\cell\target\ppu\lib\liblv2_stub.a(_sysPrxForUser_0001_16.o) (TOC#1,116)
+000000fd 00000013     1                 C:\usr\local\cell\target\ppu\lib\liblv2_stub.a(_sysPrxForUser_0001_44.o) (TOC#1,116)
+00000110 00000013     1                 C:\usr\local\cell\target\ppu\lib\liblv2_stub.a(_sysPrxForUser_0001_67.o) (TOC#1,116)
+00000123 00000013     1                 C:\usr\local\cell\target\ppu\lib\liblv2_stub.a(_sysPrxForUser_0001_68.o) (TOC#1,116)
+00000136 00000013     1                 C:\usr\local\cell\target\ppu\lib\liblv2_stub.a(_sysPrxForUser_0001_71.o) (TOC#1,116)
+00000149 00000013     1                 C:\usr\local\cell\target\ppu\lib\liblv2_stub.a(_sysPrxForUser_0001_90.o) (TOC#1,116)
+0000015c 00000013     1                 C:\usr\local\cell\target\ppu\lib\liblv2_stub.a(_sysPrxForUser_0001_115.o) (TOC#1,116)
+0000016f 00000013     1                 C:\usr\local\cell\target\ppu\lib\liblv2_stub.a(_sysPrxForUser_0001_head.o) (TOC#1,116)
+00000182 00000017     1                 C:\usr\local\cell\target\ppu\lib\libsysutil_stub.a(_cellSysutil_0001_23.o) (TOC#1,116)
+00000199 00000017     1                 C:\usr\local\cell\target\ppu\lib\libsysutil_stub.a(_cellSysutil_0001_79.o) (TOC#1,116)
+000001b0 00000017     1                 C:\usr\local\cell\target\ppu\lib\libsysutil_stub.a(_cellSysutil_0001_head.o) (TOC#1,116)
+000001c7 00000016     1                 C:\usr\local\cell\target\ppu\lib\libnetctl_stub.a(_cellNetCtl_0001_7.o) (TOC#1,116)
+000001dd 00000016     1                 C:\usr\local\cell\target\ppu\lib\libnetctl_stub.a(_cellNetCtl_0001_head.o) (TOC#1,116)
+000001f3 00000012     1                 C:\usr\local\cell\target\ppu\lib\libfs_stub.a(_sys_fs_0001_11.o) (TOC#1,116)
+00000205 00000012     1                 C:\usr\local\cell\target\ppu\lib\libfs_stub.a(_sys_fs_0001_19.o) (TOC#1,116)
+00000217 00000012     1                 C:\usr\local\cell\target\ppu\lib\libfs_stub.a(_sys_fs_0001_23.o) (TOC#1,116)
+00000229 00000012     1                 C:\usr\local\cell\target\ppu\lib\libfs_stub.a(_sys_fs_0001_40.o) (TOC#1,116)
+0000023b 00000012     1                 C:\usr\local\cell\target\ppu\lib\libfs_stub.a(_sys_fs_0001_54.o) (TOC#1,116)
+0000024d 00000012     1                 C:\usr\local\cell\target\ppu\lib\libfs_stub.a(_sys_fs_0001_55.o) (TOC#1,116)
+0000025f 00000012     1                 C:\usr\local\cell\target\ppu\lib\libfs_stub.a(_sys_fs_0001_head.o) (TOC#1,116)
+00000271 0000000c     1                 C:\usr\local\cell\target\ppu\lib\libc.a(xfvalues.o) (TOC#1,116)
+00000000 00000168     4 .psp_libgen_markfunc
+00000000 00000014     4         .psp_libgen_markfunc
+00000000 00000014     4                 C:\usr\local\cell\target\ppu\lib\libio_stub.a(_sys_io_0001_3.o) (TOC#1,116)
+00000000 00000014     0                         cellPadInit
+00000014 00000014     4                 C:\usr\local\cell\target\ppu\lib\libio_stub.a(_sys_io_0001_27.o) (TOC#1,116)
+00000014 00000014     0                         cellPadGetData
+00000028 00000014     4                 C:\usr\local\cell\target\ppu\lib\liblv2_stub.a(_sysPrxForUser_0001_16.o) (TOC#1,116)
+00000028 00000014     0                         sys_prx_load_module
+0000003c 00000014     4                 C:\usr\local\cell\target\ppu\lib\liblv2_stub.a(_sysPrxForUser_0001_44.o) (TOC#1,116)
+0000003c 00000014     0                         _sys_memcpy
+00000050 00000014     4                 C:\usr\local\cell\target\ppu\lib\liblv2_stub.a(_sysPrxForUser_0001_67.o) (TOC#1,116)
+00000050 00000014     0                         _sys_printf
+00000064 00000014     4                 C:\usr\local\cell\target\ppu\lib\liblv2_stub.a(_sysPrxForUser_0001_68.o) (TOC#1,116)
+00000064 00000014     0                         sys_prx_start_module
+00000078 00000014     4                 C:\usr\local\cell\target\ppu\lib\liblv2_stub.a(_sysPrxForUser_0001_71.o) (TOC#1,116)
+00000078 00000014     0                         _sys_sprintf
+0000008c 00000014     4                 C:\usr\local\cell\target\ppu\lib\liblv2_stub.a(_sysPrxForUser_0001_90.o) (TOC#1,116)
+0000008c 00000014     0                         _sys_malloc
+000000a0 00000014     4                 C:\usr\local\cell\target\ppu\lib\liblv2_stub.a(_sysPrxForUser_0001_115.o) (TOC#1,116)
+000000a0 00000014     0                         _sys_free
+000000b4 00000014     4                 C:\usr\local\cell\target\ppu\lib\libsysutil_stub.a(_cellSysutil_0001_23.o) (TOC#1,116)
+000000b4 00000014     0                         cellMsgDialogClose
+000000c8 00000014     4                 C:\usr\local\cell\target\ppu\lib\libsysutil_stub.a(_cellSysutil_0001_79.o) (TOC#1,116)
+000000c8 00000014     0                         cellMsgDialogOpen2
+000000dc 00000014     4                 C:\usr\local\cell\target\ppu\lib\libnetctl_stub.a(_cellNetCtl_0001_7.o) (TOC#1,116)
+000000dc 00000014     0                         cellNetCtlGetInfo
+000000f0 00000014     4                 C:\usr\local\cell\target\ppu\lib\libfs_stub.a(_sys_fs_0001_11.o) (TOC#1,116)
+000000f0 00000014     0                         cellFsClose
+00000104 00000014     4                 C:\usr\local\cell\target\ppu\lib\libfs_stub.a(_sys_fs_0001_19.o) (TOC#1,116)
+00000104 00000014     0                         cellFsRead
+00000118 00000014     4                 C:\usr\local\cell\target\ppu\lib\libfs_stub.a(_sys_fs_0001_23.o) (TOC#1,116)
+00000118 00000014     0                         cellFsOpen
+0000012c 00000014     4                 C:\usr\local\cell\target\ppu\lib\libfs_stub.a(_sys_fs_0001_40.o) (TOC#1,116)
+0000012c 00000014     0                         cellFsLseek
+00000140 00000014     4                 C:\usr\local\cell\target\ppu\lib\libfs_stub.a(_sys_fs_0001_54.o) (TOC#1,116)
+00000140 00000014     0                         cellFsWrite
+00000154 00000014     4                 C:\usr\local\cell\target\ppu\lib\libfs_stub.a(_sys_fs_0001_55.o) (TOC#1,116)
+00000154 00000014     0                         cellFsFstat
