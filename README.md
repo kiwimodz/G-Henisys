@@ -7,5 +7,5 @@ Today I decided to drop the source to G'Henisys 2018-2020
 - Source will not build
 - Some features have been redacted
 
-Enjoy.
-- kiwi
+Enjoy
+kiwi
