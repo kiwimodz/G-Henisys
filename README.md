@@ -1,5 +1,5 @@
 # G-Henisys
-!Merry Christmas!
+
 
 Considering that this source is very outdated and a mess.
 Today I decided to drop the source to G'Henisys.
